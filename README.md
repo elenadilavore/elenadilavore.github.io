@@ -1,1 +1,1 @@
-I am a PhD student at Taltech.
+I am a PhD student in the applied category theory group at Taltech.
