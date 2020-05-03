@@ -13,3 +13,5 @@ I am currently working with the [ACT school
 in the [Dialectica categories for Petri nets
 project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/).
 
+[My
+CV](https://github.com/elenadilavore/cv/blob/master/CVElenaDiLavore.pdf)
