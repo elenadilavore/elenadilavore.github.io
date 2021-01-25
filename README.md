@@ -1,7 +1,6 @@
 I am a PhD student in the [Compositional Systems and Methods
 group](https://compose.ioc.ee/) at Tallinn University of
-Technology under the supervision of [Pawel
-Sobocinski](https://www.ioc.ee/~pawel/) and [Jules
+Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/) and [Jules
 Hedges](https://julesh.com/).
 
 
@@ -15,3 +14,12 @@ project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectic
 
 [My
 CV](https://github.com/elenadilavore/cv/blob/master/CVElenaDiLavore.pdf)
+
+## Preprints
+*EDL, Jules Hedges and Paweł Sobociński*, Games on graphs: a compositional approach, 2020. [arXiv](https://arxiv.org/abs/2006.03493)
+
+*Giovanni de Felice, EDL, Mario Román, Alexis Toumi*, Functorial language games for question answering, 2020. [arXiv](https://arxiv.org/abs/2005.09439)
+
+## Notes
+
+[Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction)
