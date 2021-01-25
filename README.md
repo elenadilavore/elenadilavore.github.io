@@ -4,7 +4,7 @@ Technology under the supervision of [Pawel
 Sobocinski](https://www.ioc.ee/~pawel/) and [Jules
 Hedges](https://julesh.com/).
 
-My main interest is compositional game theory. 
+
 I also find really exciting applications of category theory to
 engineering subjects such as control systems or Petri nets. 
 
