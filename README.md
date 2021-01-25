@@ -3,8 +3,8 @@ group](https://compose.ioc.ee/) at Tallinn University of
 Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/) and [Jules
 Hedges](https://julesh.com/).
 
-
-I also find really exciting applications of category theory to
+I am working on a categorical formalism for graphs that [we used](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) to model games played on graphs.
+I also find really exciting when category theory has applications to
 engineering subjects such as control systems or Petri nets. 
 
 I am currently working with the [ACT school
@@ -15,8 +15,8 @@ project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectic
 [My
 CV](https://github.com/elenadilavore/cv/blob/master/CVElenaDiLavore.pdf)
 
-## Preprints
-*EDL, Jules Hedges and Paweł Sobociński*, Games on graphs: a compositional approach, 2020. [arXiv](https://arxiv.org/abs/2006.03493)
+## Papers and preprints
+*EDL, Jules Hedges and Paweł Sobociński*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/). [arXiv](https://arxiv.org/abs/2006.03493)
 
 *Giovanni de Felice, EDL, Mario Román, Alexis Toumi*, Functorial language games for question answering, 2020. [arXiv](https://arxiv.org/abs/2005.09439)
 
