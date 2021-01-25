@@ -16,9 +16,9 @@ project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectic
 CV](https://github.com/elenadilavore/cv/blob/master/CVElenaDiLavore.pdf)
 
 ## Papers and preprints
-*EDL, Jules Hedges and Paweł Sobociński*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/). [arXiv](https://arxiv.org/abs/2006.03493)
+*EDL, Jules Hedges and Paweł Sobociński*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/). [arXiv](https://arxiv.org/abs/2006.03493). [Slides of the talk](./games-on-graphs-presentation.html).
 
-*Giovanni de Felice, EDL, Mario Román, Alexis Toumi*, Functorial language games for question answering, 2020. [arXiv](https://arxiv.org/abs/2005.09439)
+*Giovanni de Felice, EDL, Mario Román, Alexis Toumi*, Functorial language games for question answering, 2020. [arXiv](https://arxiv.org/abs/2005.09439).
 
 ## Notes
 
