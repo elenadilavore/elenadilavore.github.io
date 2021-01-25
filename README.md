@@ -22,4 +22,4 @@ CV](https://github.com/elenadilavore/cv/raw/master/CVElenaDiLavore.pdf)
 
 ## Notes
 
-* [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction)
+* [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf)
