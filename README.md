@@ -9,7 +9,7 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 ## Papers and preprints
 * *EDL, Jules Hedges and Paweł Sobociński*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/), CSL 2021. [arXiv](https://arxiv.org/abs/2006.03493). [Slides of the talk](./slides/games-on-graphs-presentation.html).
 
-* *EDL, Alessandro Gianola, Mario Román, Nicoletta Sabadini, Paweł Sobociński*, [A canonical algebra of open transition systems](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4), FACS 2021. [arXiv preprint](https://arxiv.org/abs/2010.10069).
+* *EDL, Alessandro Gianola, Mario Román, Nicoletta Sabadini, Paweł Sobociński*, [A canonical algebra of open transition systems](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4), FACS 2021. [arXiv](https://arxiv.org/abs/2010.10069).
 
 * *EDL, Wilmer Leal, Valeria de Paiva*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
