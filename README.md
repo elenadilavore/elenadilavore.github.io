@@ -25,5 +25,5 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 * **(March 2020 - July 2020)**: I have participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of Valeria de Paiva. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
-* [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf)
 * [Open games on a category with feedback (very drafty)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf)
+* [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf)
