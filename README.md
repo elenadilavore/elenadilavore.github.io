@@ -26,3 +26,4 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 
 ## Notes
 * [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf)
+* [Open games on a category with feedback (very drafty)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf)
