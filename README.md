@@ -1,3 +1,4 @@
+![profile picture](/elenadilavore.github.io/profilo.jpg)
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/) and [Jules Hedges](https://julesh.com/).
 
 I am working on a categorical formalism for graph widths.
