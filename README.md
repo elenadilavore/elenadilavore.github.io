@@ -1,3 +1,4 @@
+<img align="left" src="https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" width="100">
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/) and [Jules Hedges](https://julesh.com/).
 
 I am working on a categorical formalism for graph widths.
@@ -7,6 +8,8 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 [My CV](https://github.com/elenadilavore/cv/raw/master/CVElenaDiLavore.pdf)
 
 ## Papers and preprints
+* *EDL and Paweł Sobociński*, Monoidal Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
+* *EDL, Giovanni de Felice and Mario Román*, Monoidal Streams for Dataflow Programming, [arXiv preprint](https://arxiv.org/abs/2202.02061) 2022.
 * *EDL, Jules Hedges and Paweł Sobociński*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/), CSL 2021. [arXiv](https://arxiv.org/abs/2006.03493). [Slides of the talk](./slides/games-on-graphs-presentation.html).
 
 * *EDL, Alessandro Gianola, Mario Román, Nicoletta Sabadini, Paweł Sobociński*, [A canonical algebra of open transition systems](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4), FACS 2021. [arXiv](https://arxiv.org/abs/2010.10069).
