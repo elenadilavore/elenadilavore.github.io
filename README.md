@@ -1,7 +1,7 @@
 <img align="left" src="https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" width="200">
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/) and [Jules Hedges](https://julesh.com/).
 
-I am working on a categorical formalism for graph widths.
+I am working on a categorical formalism for measures of graph complexity like tree width and rank width.
 I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/).
 [We have applied this work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) to model games played on graphs.
 
