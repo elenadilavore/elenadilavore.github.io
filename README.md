@@ -9,6 +9,9 @@ I am working on a categorical formalism for measures of graph complexity like tr
 I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/).
 [We have applied this work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) to model games played on graphs.
 
+
+
+
 ## Papers and preprints
 * *EDL and Paweł Sobociński*, Monoidal Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
