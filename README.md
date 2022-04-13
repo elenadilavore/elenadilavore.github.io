@@ -1,16 +1,13 @@
 <img align = "left"
-   style = "position:relative; left:50px; top:10px; width:200px; border:none;"
-   alt = "photo of Elena Di Lavore"
-   title = "Photo of Elena Di Lavore"
+    title = "Photo of Elena Di Lavore"
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" >
+<div align = "right">
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/).
 
 I am working on a categorical formalism for measures of graph complexity like tree width and rank width.
 I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/).
 [We have applied this work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) to model games played on graphs.
-
-
-
+</div>
 
 ## Papers and preprints
 * *EDL and Paweł Sobociński*, Monoidal Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
