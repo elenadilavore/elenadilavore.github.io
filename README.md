@@ -1,5 +1,9 @@
-## About
-<img align="left" src="https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" width="200">
+<img align = "left"
+   style = "position:absolute; top:-10px; left:-30px; width:80px; height:80px; border:none;"
+   alt = "photo of Elena Di Lavore"
+   title = "Photo of Elena Di Lavore"
+    src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
+   width = "200">
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/).
 
 I am working on a categorical formalism for measures of graph complexity like tree width and rank width.
