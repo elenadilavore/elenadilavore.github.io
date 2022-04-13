@@ -1,6 +1,7 @@
 <img align = "left"
     title = "Photo of Elena Di Lavore"
-    src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" >
+    src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
+    width = "200">
 <div align = "right">
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/).
 
