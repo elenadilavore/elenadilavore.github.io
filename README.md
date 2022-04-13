@@ -1,4 +1,5 @@
-<img style = "position:relative; left:50px; top:10px; width:200px; border:none;"
+<img align = "left"
+   style = "position:relative; left:50px; top:10px; width:200px; border:none;"
    alt = "photo of Elena Di Lavore"
    title = "Photo of Elena Di Lavore"
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" >
