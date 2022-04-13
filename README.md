@@ -33,10 +33,10 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 * [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf)
 
 ## Education
-* **November 2019 - present**: PhD student at Tallinn University of Technology under the supervision of Paweł Sobociński.
-* **September 2018 - September 2019**: MSc in Mathematics and Foundations of Computer Science at the University of Oxford, where I learned category theory (and graph theory).
-* **September 2017 - September 2018**: BSc in Mathematics at Università di Pisa, where I studied some pure math (groups, rings, topology, set theory).
-* **September 2014 - July 2017**: BSc in Mathematical Engineering at Politecnico di Milano, where I studied the mathematics that is useful for engineering (mathematical analysis, probability, statistics, numerical analysis, partial differential equations, control systems) and some basics of engineering.
+* *November 2019 - present*: PhD student at **Tallinn University of Technology** under the supervision of Paweł Sobociński.
+* *September 2018 - September 2019*: MSc in Mathematics and Foundations of Computer Science at the **University of Oxford**, where I learned category theory (and graph theory).
+* *September 2017 - September 2018*: BSc in Mathematics at **Università di Pisa**, where I studied some pure math (groups, rings, topology, set theory).
+* *September 2014 - July 2017*: BSc in Mathematical Engineering at **Politecnico di Milano**, where I studied the mathematics that is useful for engineering (mathematical analysis, probability, statistics, numerical analysis, partial differential equations, control systems) and some basics of engineering.
 
 [My CV](https://github.com/elenadilavore/cv/raw/master/CVElenaDiLavore.pdf)
 
