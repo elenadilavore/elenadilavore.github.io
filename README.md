@@ -1,5 +1,5 @@
 <p>
-<img align="left" src="https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" width="190">
+<img align="left" src="https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" width="200">
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/).
 
 I am working on a categorical formalism for measures of graph complexity like tree width and rank width.
