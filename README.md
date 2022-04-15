@@ -11,7 +11,7 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 ## Papers and preprints
 * *EDL and Paweł Sobociński*, Monoidal Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
-* *EDL, Giovanni de Felice and Mario Román*, Monoidal Streams for Dataflow Programming, [arXiv preprint](https://arxiv.org/abs/2202.02061) 2022.
+* *EDL, Giovanni de Felice and Mario Román*, Monoidal Streams for Dataflow Programming, to appear in LiCS 2022, [arXiv preprint](https://arxiv.org/abs/2202.02061) 2022.
 
 * *EDL, Jules Hedges and Paweł Sobociński*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/), CSL 2021. [arXiv](https://arxiv.org/abs/2006.03493). [Slides of the talk](./slides/games-on-graphs-presentation.html).
 
