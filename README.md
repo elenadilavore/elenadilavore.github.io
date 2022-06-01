@@ -2,24 +2,24 @@
     title = "Photo of Elena Di Lavore"
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
     width = "200">
-I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński](https://www.ioc.ee/~pawel/).
+I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 I am working on a categorical formalism for measures of graph complexity like tree width and rank width.
 I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/).
 [We have applied this work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) to model games played on graphs.
 
 ## Papers and preprints
-* *EDL and Paweł Sobociński*, Monoidal Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
+* *EDL and [Paweł Sobociński][pawel]*, Monoidal Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
-* *EDL, Giovanni de Felice and Mario Román*, Monoidal Streams for Dataflow Programming, to appear in LiCS 2022, [arXiv preprint](https://arxiv.org/abs/2202.02061) 2022.
+* *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Monoidal Streams for Dataflow Programming, to appear in LiCS 2022, [arXiv preprint](https://arxiv.org/abs/2202.02061) 2022.
 
-* *EDL, Jules Hedges and Paweł Sobociński*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/), CSL 2021. [arXiv](https://arxiv.org/abs/2006.03493). [Slides of the talk](./slides/games-on-graphs-presentation.html).
+* *EDL, [Jules Hedges][jules] and [Paweł Sobociński][pawel]*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/), CSL 2021. [arXiv](https://arxiv.org/abs/2006.03493). [Slides of the talk](./slides/games-on-graphs-presentation.html).
 
-* *EDL, Alessandro Gianola, Mario Román, Nicoletta Sabadini, Paweł Sobociński*, [A canonical algebra of open transition systems](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4), FACS 2021. [arXiv](https://arxiv.org/abs/2010.10069).
+* *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, [A canonical algebra of open transition systems](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4), FACS 2021. [arXiv](https://arxiv.org/abs/2010.10069).
 
-* *EDL, Wilmer Leal, Valeria de Paiva*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
+* *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
-* *Giovanni de Felice, EDL, Mario Román, Alexis Toumi*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), EPTCS 2021. [arXiv](https://arxiv.org/abs/2005.09439).
+* *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), EPTCS 2021. [arXiv](https://arxiv.org/abs/2005.09439).
 
 ## Events
 * **(May 2022)**: I will be a member of the program commitee of the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/).
@@ -29,11 +29,14 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 * **(May 2021)**: I have given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
 * **(26 January 2021)**: I have presented [our work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) at [CSL 2021](https://csl2021.fmf.uni-lj.si/). [Video](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s) and [slides](./slides/games-on-graphs-presentation.html).
 * **(May 2020)**: I have given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
-* **(March 2020 - July 2020)**: I have participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of Valeria de Paiva. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
+* **(March 2020 - July 2020)**: I have participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
-* [Open games on a category with feedback (very drafty)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf)
-* [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf)
+* [Open games on a category with feedback (very drafty)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf), with [Mario Román][mario] 
+* [Timing processes (the naive way)](https://www.ioc.ee/~mroman/data/notes/timing-processes.pdf), with [Mario Román][mario]
+* [Game equilibria as fixed point semantics](https://www.ioc.ee/~mroman/data/notes/game-equilibria.pdf), with [Mario Román][mario]
+* [Composing optics with feedback](https://www.ioc.ee/~mroman/data/notes/composingopticswithfeedback.pdf), with [Mario Román][mario]
+* [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf), with [Mario Román][mario]
 
 ## Education
 * *November 2019 - present*: PhD student at **Tallinn University of Technology** under the supervision of Paweł Sobociński.
@@ -43,3 +46,12 @@ I [have presented](./slides/mwd-syco.html) this work at [SYCO 8](https://www.cl.
 
 [My CV](https://github.com/elenadilavore/cv/raw/master/CVElenaDiLavore.pdf)
 
+[mario]: https://www.ioc.ee/~mroman/
+[pawel]: https://www.ioc.ee/~pawel/
+[jules]: https://julesh.com/
+[gianola]: https://gianola.people.unibz.it/
+[wilmer]: https://wilmerleal.me/
+[valeria]: https://vcvpaiva.github.io/index.html
+[alexis]: https://alexis.toumi.xyz/
+[giovanni]: https://www.cs.ox.ac.uk/people/giovanni.defelice/
+[nicoletta]: https://www.uninsubria.it/hpp/nicoletta.sabadini#
