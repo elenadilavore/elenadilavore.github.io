@@ -21,7 +21,7 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
-* *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), EPTCS 2021. [arXiv](https://arxiv.org/abs/2005.09439).
+* *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), ACT 2021. [arXiv](https://arxiv.org/abs/2005.09439).
 
 ## Events
 * **(25 May 2022)**: I gave a [talk](./slides/mwd-comonads.pdf) at the Comonads Meetup.
