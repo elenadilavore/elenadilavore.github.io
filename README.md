@@ -6,34 +6,43 @@ I am a PhD student in the [Compositional Systems and Methods group](https://comp
 
 I am working on a categorical formalism for measures of graph complexity that are based on a notion of decomposition. 
 We have applied this formalism to explicit the decomposition algebra behind [path width, tree width and branch width](https://arxiv.org/abs/2202.07582) and behind [rank width](https://arxiv.org/abs/2205.08916).
-[These are the slides](./slides/mwd-comonads.pdf) of my most recent presentation of this work.
+[These are the slides](./slides/mwd-comonads.pdf) of my most complete presentation of this work.
 
 ## Papers and preprints
-* *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Capturing Rank Width, [arXiv preprint](https://arxiv.org/abs/2205.08916) 2022.
+* *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/), [arXiv](https://arxiv.org/abs/2205.08916). [Slides](./slides/mwd-act.pdf)
+
+* *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, [Monoidal Streams for Dataflow Programming](https://dl.acm.org/doi/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/). [arXiv](https://arxiv.org/abs/2202.02061).
+
+* *EDL, [Jules Hedges][jules] and [Paweł Sobociński][pawel]*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/), [CSL 2021](https://csl2021.fmf.uni-lj.si/). [arXiv](https://arxiv.org/abs/2006.03493). [Slides](./slides/games-on-graphs-csl.pdf).
+
+* *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, [A canonical algebra of open transition systems](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4), [FACS 2021](https://facs2021.inria.fr/). [arXiv](https://arxiv.org/abs/2010.10069).
+
+* *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), [ACT 2021](https://www.cl.cam.ac.uk/events/act2021/). [arXiv](https://arxiv.org/abs/2005.09439).
+
+## Preprints
+* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, [preprint](./notes/bayes-partial.pdf) 2022.
 
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
-* *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Monoidal Streams for Dataflow Programming, to appear in LiCS 2022, [arXiv preprint](https://arxiv.org/abs/2202.02061) 2022.
-
-* *EDL, [Jules Hedges][jules] and [Paweł Sobociński][pawel]*, [Compositional modelling of network games, 2021](https://drops.dagstuhl.de/opus/volltexte/2021/13464/), CSL 2021. [arXiv](https://arxiv.org/abs/2006.03493). [Slides of the talk](./slides/games-on-graphs-csl.pdf).
-
-* *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, [A canonical algebra of open transition systems](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_4), FACS 2021. [arXiv](https://arxiv.org/abs/2010.10069).
-
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
-* *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), ACT 2021. [arXiv](https://arxiv.org/abs/2005.09439).
-
 ## Events
-* **(25 May 2022)**: I gave a [talk](./slides/mwd-comonads.pdf) at the Comonads Meetup.
-* **(24 May 2022)**: I gave a [talk](./slides/dialectica-PN-bath.pdf) about our work on Dialectica Petri nets at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) at the University of Bath.
-* **(May 2022)**: I will be a member of the program commitee of the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/).
+* **(November 2022)**: visiting [Jamie Vicary][jamie] at the University of Cambridge.
+* **(August 2022)**: our [LiCS2022 paper on Monoidal Streams](https://dl.acm.org/doi/10.1145/3531130.3533365) won the Kleene Award and was chosen as a distinguished paper.
+* **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
+* **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at [ACT2022](https://msp.cis.strath.ac.uk/act2022/programme.html).
+* **(26 June 2022)**: [talk](./slides/mwd-fmcs.pdf) at the [FMCS workshop](https://pages.cpsc.ucalgary.ca/~robin/FMCS/FMCS2022/FMCS2022.html).
+* **(June 2022)**: visiting [Fabio Gadducci][gadducci] and [Filippo Bonchi][bonchi] at the University of Pisa.
+* **(25 May 2022)**: [talk](./slides/mwd-comonads.pdf) at the Comonads Meetup.
+* **(24 May 2022)**: [talk](./slides/dialectica-PN-bath.pdf) about our work on Dialectica Petri nets at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) at the University of Bath.
+* **(May 2022)**: member of the program commitee for the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/).
 * **(31 December 2021)**: We have opened the applications for the [ACT Adjoint school](http://adjointschool.com/apply.html).
-* **(13-14 December 2021)**: I have presented our work at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/). [Slides of the talk on monoidal width](./slides/mwd-syco.pdf), [slides of the talk on Dialectica Petri nets](./slides/dialectica-PN-syco.pdf).
-* **(September 2021)**: I am one of the organisers of the [ACT school 2022](http://adjointschool.com/).
-* **(May 2021)**: I have given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
-* **(26 January 2021)**: I have presented [our work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) at [CSL 2021](https://csl2021.fmf.uni-lj.si/). [Video](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s) and [slides](./slides/games-on-graphs-csl.pdf).
-* **(May 2020)**: I have given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
-* **(March 2020 - July 2020)**: I have participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
+* **(13-14 December 2021)**: presented our work at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/). [Slides of the talk on monoidal width](./slides/mwd-syco.pdf), [slides of the talk on Dialectica Petri nets](./slides/dialectica-PN-syco.pdf).
+* **(September 2021)**: an organiser of the [ACT school 2022](http://adjointschool.com/).
+* **(May 2021)**: given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
+* **(26 January 2021)**: presented [our work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) at [CSL 2021](https://csl2021.fmf.uni-lj.si/). [Video](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s) and [slides](./slides/games-on-graphs-csl.pdf).
+* **(May 2020)**: given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
+* **(March 2020 - July 2020)**: participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
 * [Open games on a category with feedback (very drafty)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf), with [Mario Román][mario] 
@@ -59,3 +68,6 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 [alexis]: https://alexis.toumi.xyz/
 [giovanni]: https://www.cs.ox.ac.uk/people/giovanni.defelice/
 [nicoletta]: https://www.uninsubria.it/hpp/nicoletta.sabadini#
+[gadducci]: http://pages.di.unipi.it/gadducci/
+[bonchi]: https://www.irif.fr/~greta/author/filippo-bonchi/
+[jamie]: https://www.cl.cam.ac.uk/~jv258/
