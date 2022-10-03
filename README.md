@@ -20,7 +20,7 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 * *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), [ACT 2021](https://www.cl.cam.ac.uk/events/act2021/). [arXiv](https://arxiv.org/abs/2005.09439).
 
 ## Preprints
-* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, [preprint](./notes/bayes-partial.pdf) 2022.
+* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, [preprint](./notes/bayes-subdistributions.pdf) 2022.
 
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
