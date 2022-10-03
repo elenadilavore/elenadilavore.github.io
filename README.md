@@ -38,7 +38,7 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 * **(May 2022)**: member of the program commitee for the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/).
 * **(31 December 2021)**: We have opened the applications for the [ACT Adjoint school](http://adjointschool.com/apply.html).
 * **(13-14 December 2021)**: presented our work at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/). [Slides of the talk on monoidal width](./slides/mwd-syco.pdf), [slides of the talk on Dialectica Petri nets](./slides/dialectica-PN-syco.pdf).
-* **(September 2021)**: an organiser of the [ACT school 2022](http://adjointschool.com/).
+* **(September 2021 - August 2023)**: an organiser of the [ACT school 2022](http://adjointschool.com/).
 * **(May 2021)**: given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
 * **(26 January 2021)**: presented [our work](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) at [CSL 2021](https://csl2021.fmf.uni-lj.si/). [Video](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s) and [slides](./slides/games-on-graphs-csl.pdf).
 * **(May 2020)**: given two lectures for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at my university.
