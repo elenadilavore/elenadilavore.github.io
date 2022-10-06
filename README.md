@@ -8,7 +8,7 @@ I am working on a categorical formalism for measures of graph complexity that ar
 We have applied this formalism to explicit the decomposition algebra behind [path width, tree width and branch width](https://arxiv.org/abs/2202.07582) and behind [rank width](https://arxiv.org/abs/2205.08916).
 [These are the slides](./slides/mwd-comonads.pdf) of my most complete presentation of this work.
 
-## Papers and preprints
+## Papers
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/), [arXiv](https://arxiv.org/abs/2205.08916). [Slides](./slides/mwd-act.pdf)
 
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, [Monoidal Streams for Dataflow Programming](https://dl.acm.org/doi/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/). [arXiv](https://arxiv.org/abs/2202.02061).
@@ -28,6 +28,7 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 
 ## Events
 * **(November 2022)**: visiting [Jamie Vicary][jamie] at the University of Cambridge.
+* **(8-9 September 2022)**: organised [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
 * **(August 2022)**: our [LiCS2022 paper on Monoidal Streams](https://dl.acm.org/doi/10.1145/3531130.3533365) won the Kleene Award and was chosen as a distinguished paper.
 * **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
 * **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at [ACT2022](https://msp.cis.strath.ac.uk/act2022/programme.html).
