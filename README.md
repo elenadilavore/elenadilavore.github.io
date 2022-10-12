@@ -34,7 +34,7 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 * **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at [ACT2022](https://msp.cis.strath.ac.uk/act2022/programme.html).
 * **(26 June 2022)**: [talk](./slides/mwd-fmcs.pdf) at the [FMCS workshop](https://pages.cpsc.ucalgary.ca/~robin/FMCS/FMCS2022/FMCS2022.html).
 * **(June 2022)**: visiting [Fabio Gadducci][gadducci] and [Filippo Bonchi][bonchi] at the University of Pisa.
-* **(25 May 2022)**: [talk](./slides/mwd-comonads.pdf) at the Comonads Meetup.
+* **(25 May 2022)**: [talk](./slides/mwd-comonads.pdf) at the [Comonads Meetup](https://kam.mff.cuni.cz/~jaklt/comonadwiki/index.php/Public:Seminar).
 * **(24 May 2022)**: [talk](./slides/dialectica-PN-bath.pdf) about our work on Dialectica Petri nets at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) at the University of Bath.
 * **(May 2022)**: member of the program commitee for the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/).
 * **(31 December 2021)**: We have opened the applications for the [ACT Adjoint school](http://adjointschool.com/apply.html).
