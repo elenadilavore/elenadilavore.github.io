@@ -27,7 +27,7 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
 ## Events
-* **(November 2022)**: visiting [Jamie Vicary][jamie] at the University of Cambridge.
+* **(November 2022)**: visiting [Jamie Vicary][jamie] at the University of Cambridge ([slides](./slides/mwd-clash.pdf)).
 * **(8-9 September 2022)**: organised [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
 * **(August 2022)**: our [LiCS2022 paper on Monoidal Streams](https://dl.acm.org/doi/10.1145/3531130.3533365) won the Kleene Award and was chosen as a distinguished paper.
 * **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
