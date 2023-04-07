@@ -4,11 +4,16 @@
     width = "200">
 I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
-I am working on a categorical formalism for measures of graph complexity that are based on a notion of decomposition. 
-We have applied this formalism to explicit the decomposition algebra behind [path width, tree width and branch width](https://arxiv.org/abs/2202.07582) and behind [rank width](https://arxiv.org/abs/2205.08916).
+I am working on monoidal width, a measure of computational complexity for morphisms in monoidal categories.
+This general framework captures [path width, tree width and branch width](https://arxiv.org/abs/2202.07582), and [rank width](https://arxiv.org/abs/2205.08916).
 [These are the slides](./slides/mwd-comonads.pdf) of my most complete presentation of this work.
 
+I have recently gotten interested in categorical probability: 
+we studied [stochastic streams](https://arxiv.org/abs/2202.02061) and a [partial version of Markov categories](https://arxiv.org/abs/2301.12989).
+
 ## Papers
+* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/). [arXiv preprint](https://arxiv.org/abs/2301.12989).
+
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/), [arXiv](https://arxiv.org/abs/2205.08916). [Slides](./slides/mwd-act.pdf)
 
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, [Monoidal Streams for Dataflow Programming](https://dl.acm.org/doi/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/). [arXiv](https://arxiv.org/abs/2202.02061).
@@ -20,8 +25,6 @@ We have applied this formalism to explicit the decomposition algebra behind [pat
 * *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://dx.doi.org/10.4204/EPTCS.333.21), [ACT 2021](https://www.cl.cam.ac.uk/events/act2021/). [arXiv](https://arxiv.org/abs/2005.09439).
 
 ## Preprints
-* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, [arXiv preprint](https://arxiv.org/abs/2301.12989) 2023.
-
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
