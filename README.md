@@ -12,8 +12,8 @@ I have recently gotten interested in categorical probability:
 we studied [stochastic streams](https://arxiv.org/abs/2202.02061) and a [partial version of Markov categories](https://arxiv.org/abs/2301.12989).
 
 ## Papers
-* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/). [arXiv preprint](https://arxiv.org/abs/2301.12989). [Slides](./slides/partial-markov-tallcat.pdf).
-
+* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/). 
+[[arXiv preprint](https://arxiv.org/abs/2301.12989)] [[Slides](./slides/partial-markov-tallcat.pdf)]
 * *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, Span(Graph): [a Canonical Feedback Algebra of Open Transition Systems](https://doi.org/10.1007/s10270-023-01092-7), [Software and Systems Modeling](https://www.springer.com/journal/10270). [arXiv](https://arxiv.org/abs/2010.10069).
 
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/). [arXiv](https://arxiv.org/abs/2205.08916). [Slides](./slides/mwd-act.pdf)
