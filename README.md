@@ -12,31 +12,19 @@ I have recently gotten interested in categorical probability:
 we studied [stochastic streams](https://arxiv.org/abs/2202.02061) and a [partial version of Markov categories](https://arxiv.org/abs/2301.12989).
 
 ## Papers
-* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/). 
-
+* *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/).  
   [[arXiv preprint](https://arxiv.org/abs/2301.12989)] [[Slides](./slides/partial-markov-tallcat.pdf)]
-* *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, Span(Graph): [a Canonical Feedback Algebra of Open Transition Systems](https://doi.org/10.1007/s10270-023-01092-7), [Software and Systems Modeling](https://www.springer.com/journal/10270). 
-
+* *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, Span(Graph): [a Canonical Feedback Algebra of Open Transition Systems](https://doi.org/10.1007/s10270-023-01092-7), [Software and Systems Modeling](https://www.springer.com/journal/10270).  
   [[arXiv](https://arxiv.org/abs/2010.10069)]
-
-* *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/).
-
+* *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/).  
   [[arXiv](https://arxiv.org/abs/2205.08916)] [[Slides](./slides/mwd-act.pdf)]
-
-* *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, [Monoidal Streams for Dataflow Programming](https://doi.org/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/).
-
+* *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, [Monoidal Streams for Dataflow Programming](https://doi.org/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/).  
   [[arXiv](https://arxiv.org/abs/2202.02061)]
-
-* *EDL, [Jules Hedges][jules] and [Paweł Sobociński][pawel]*, [Compositional modelling of network games, 2021](https://doi.org/10.4230/LIPIcs.CSL.2021.30), [CSL 2021](https://csl2021.fmf.uni-lj.si/).
-
+* *EDL, [Jules Hedges][jules] and [Paweł Sobociński][pawel]*, [Compositional modelling of network games, 2021](https://doi.org/10.4230/LIPIcs.CSL.2021.30), [CSL 2021](https://csl2021.fmf.uni-lj.si/).  
   [[arXiv](https://arxiv.org/abs/2006.03493)] [[Slides](./slides/games-on-graphs-csl.pdf)]
-
-* *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, [A canonical algebra of open transition systems](https://doi.org/10.1007/978-3-030-90636-8_4), [FACS 2021](https://facs2021.inria.fr/).
-
+* *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta], [Paweł Sobociński][pawel]*, [A canonical algebra of open transition systems](https://doi.org/10.1007/978-3-030-90636-8_4), [FACS 2021](https://facs2021.inria.fr/).  
   [[arXiv](https://arxiv.org/abs/2010.10069v1)]
-
-* *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://doi.org/10.4204/EPTCS.333.21), [ACT 2021](https://www.cl.cam.ac.uk/events/act2021/).
-
+* *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*, [Functorial language games for question answering](https://doi.org/10.4204/EPTCS.333.21), [ACT 2021](https://www.cl.cam.ac.uk/events/act2021/).  
   [[arXiv](https://arxiv.org/abs/2005.09439)]
 
 ## Preprints
