@@ -42,12 +42,12 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
-* **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) on [partial Markov categories](https://arxiv.org/abs/2301.12989) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
+* **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at the [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) on [partial Markov categories](https://arxiv.org/abs/2301.12989) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
 * **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
-* **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at [ACT2022](https://msp.cis.strath.ac.uk/act2022/programme.html).
+* **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/programme.html).
 * **(26 June 2022)**: [talk](./slides/mwd-fmcs.pdf) at the [FMCS workshop](https://pages.cpsc.ucalgary.ca/~robin/FMCS/FMCS2022/FMCS2022.html).
 * **(25 May 2022)**: [talk](./slides/mwd-comonads.pdf) at the [Comonads Meetup](https://kam.mff.cuni.cz/~jaklt/comonadwiki/index.php/Public:Seminar).
-* **(24 May 2022)**: [talk](./slides/dialectica-PN-bath.pdf) about our work on Dialectica Petri nets at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) at the University of Bath.
+* **(24 May 2022)**: [talk](./slides/dialectica-PN-bath.pdf) at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) at the University of Bath about Dialectica Petri nets.
 * **(13-14 December 2021)**: talks at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/). [Slides of the talk on monoidal width](./slides/mwd-syco.pdf), [slides of the talk on Dialectica Petri nets](./slides/dialectica-PN-syco.pdf).
 * **(26 January 2021)**: [talk](./slides/games-on-graphs-csl.pdf) at the [CSL 2021 conference](https://csl2021.fmf.uni-lj.si/) ([Conference paper](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) and [recording of the talk](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s)).
 
