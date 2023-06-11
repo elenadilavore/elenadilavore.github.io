@@ -56,7 +56,7 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * **(March 2020 - July 2020)**: participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
-* [Open games on a category with feedback (very drafty)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf), with [Mario Román][mario] 
+* [Open games on a category with feedback (draft)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf), with [Mario Román][mario] 
 * [Timing processes (the naive way)](https://www.ioc.ee/~mroman/data/notes/timing-processes.pdf), with [Mario Román][mario]
 * [Game equilibria as fixed point semantics](https://www.ioc.ee/~mroman/data/notes/game-equilibria.pdf), with [Mario Román][mario]
 * [Composing optics with feedback](https://www.ioc.ee/~mroman/data/notes/composingopticswithfeedback.pdf), with [Mario Román][mario]
