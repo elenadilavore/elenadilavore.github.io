@@ -30,9 +30,7 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 ## Preprints
 
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
-
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
-
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
 ## Academic service
