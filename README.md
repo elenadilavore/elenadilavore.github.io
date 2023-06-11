@@ -9,7 +9,7 @@ This general framework captures [path width, tree width and branch width](https:
 [These are the slides](./slides/mwd-comonads.pdf) of my most complete presentation of this work.
 
 I have recently gotten interested in categorical probability: 
-we studied [stochastic streams](https://arxiv.org/abs/2202.02061) and a [partial version of Markov categories](https://arxiv.org/abs/2301.12989).
+with coauthors, I studied [stochastic streams](https://arxiv.org/abs/2202.02061) and a [partial version of Markov categories](https://arxiv.org/abs/2301.12989).
 
 ## Papers
 * *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/).  
@@ -36,6 +36,7 @@ we studied [stochastic streams](https://arxiv.org/abs/2202.02061) and a [partial
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
 ## Events
+* **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) on [partial Markov categories](https://arxiv.org/abs/2301.12989) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
 * **(January - May 2023)**: TA for the [category theory and applications](https://compose.ioc.ee/CourseCategoryTheory.html) course at TalTech.
 * **(November 2022)**: visiting [Jamie Vicary][jamie] at the University of Cambridge ([slides](./slides/mwd-clash.pdf)).
 * **(8-9 September 2022)**: organised [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
