@@ -8,8 +8,8 @@ I am working on monoidal width, a measure of computational complexity for morphi
 This general framework captures [path width, tree width and branch width](https://arxiv.org/abs/2202.07582), and [rank width](https://arxiv.org/abs/2205.08916).
 [These are the slides](./slides/mwd-comonads.pdf) of my most complete presentation of this work.
 
-I have recently gotten interested in categorical probability: 
-with coauthors, I studied [stochastic streams](https://arxiv.org/abs/2202.02061) and a [partial version of Markov categories](https://arxiv.org/abs/2301.12989).
+I am also interested in categorical probability. 
+I have worked on a [partial version of Markov categories](https://arxiv.org/abs/2301.12989) and [stochastic dataflow](https://arxiv.org/abs/2202.02061).
 
 ## Papers
 * *EDL and [Mario Román][mario]*, Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/).  
