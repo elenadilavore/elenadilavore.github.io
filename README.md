@@ -18,7 +18,7 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/)  
   *EDL and [Mario Román][mario]*  
   [[arXiv preprint](https://arxiv.org/abs/2301.12989)] [[Slides](./slides/partial-markov-tallcat.pdf)]
-* Span(Graph): [a Canonical Feedback Algebra of Open Transition Systems](https://doi.org/10.1007/s10270-023-01092-7), [Software and Systems Modeling](https://www.springer.com/journal/10270)  
+* [Span(Graph): a Canonical Feedback Algebra of Open Transition Systems](https://doi.org/10.1007/s10270-023-01092-7), [Software and Systems Modeling](https://www.springer.com/journal/10270)  
   *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta] and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2010.10069)]
 * Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/)  
