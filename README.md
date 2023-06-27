@@ -52,6 +52,7 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
+* **(27 June 2023)**: [talk](./slides/partial-markov-lics.pdf) at LiCS.
 * **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at the [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) on [partial Markov categories](https://arxiv.org/abs/2301.12989) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
 * **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
 * **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/programme.html) ([conference paper](https://arxiv.org/abs/2205.08916)).
