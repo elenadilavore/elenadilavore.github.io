@@ -12,16 +12,16 @@ I am also interested in categorical probability.
 I have worked on a [partial version of Markov categories](https://arxiv.org/abs/2301.12989) and [stochastic dataflow](https://arxiv.org/abs/2202.02061).
 
 ## Publications
-* Monoidal Width, to appear in [LMCS](https://lmcs.episciences.org/)  
+* Monoidal Width, to appear in [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
   *EDL and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2212.13229)]
-* Evidential Decision Theory via Partial Markov Categories, accepted at [LiCS 2023](https://lics.siglog.org/lics23/)  
+* [Evidential Decision Theory via Partial Markov Categories](https://doi.org/10.1109/LICS56636.2023.10175776), [LiCS 2023](https://lics.siglog.org/lics23/)  
   *EDL and [Mario Román][mario]*  
-  [[arXiv preprint](https://arxiv.org/abs/2301.12989)] [[Slides](./slides/partial-markov-tallcat.pdf)]
+  [[arXiv](https://arxiv.org/abs/2301.12989)] [[Slides](./slides/partial-markov-act.pdf)]
 * [Span(Graph): a Canonical Feedback Algebra of Open Transition Systems](https://doi.org/10.1007/s10270-023-01092-7), [Software and Systems Modeling](https://www.springer.com/journal/10270)  
   *EDL, [Alessandro Gianola][gianola], [Mario Román][mario], [Nicoletta Sabadini][nicoletta] and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2010.10069)]
-* Monoidal Width: Capturing Rank Width, [ACT 2022](https://msp.cis.strath.ac.uk/act2022/)  
+* [Monoidal Width: Capturing Rank Width](https://doi.org/10.4204/EPTCS.380.16), [ACT 2022](https://msp.cis.strath.ac.uk/act2022/)  
   *EDL and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2205.08916)] [[Slides](./slides/mwd-act.pdf)]
 * [Monoidal Streams for Dataflow Programming](https://doi.org/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/)  
@@ -48,14 +48,15 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * **(January - May 2023)**: TA for the [category theory and applications](https://compose.ioc.ee/CourseCategoryTheory.html) course at Tallinn University of Technology.
 * **(8-9 September 2022)**: local co-organiser [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
 * **(May 2022)**: program committee member for the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/).
-* **(September 2021 - August 2023)**:  co-organiser of the [ACT school 2022 and 2023](http://adjointschool.com/).
+* **(September 2021 - August 2023)**:  co-organiser of the [ACT Adjoint school 2022 and 2023](http://adjointschool.com/).
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
-* **(1 August 2023)**: [talk](./slides/partial-markov-act.pdf) at [ACT](https://act2023.github.io/).
+* **(1 August 2023)**: [talk](./slides/partial-markov-act.pdf) at [ACT](https://act2023.github.io/) (distinguished).
 * **(18 July 2023)**: [talk](./slides/mwd-coresources.pdf) at the [Coresources workshop](https://www.cst.cam.ac.uk/conference/coresources-2023).
 * **(27 June 2023)**: [talk](./slides/partial-markov-lics.pdf) at [LiCS](https://lics.siglog.org/lics23/).
 * **(25 June 2023)**: [talk](./slides/mwd-qualog.pdf) at the [QuaLog workshop](https://perso.ens-lyon.fr/matteo.mio/qualog23/).
+* **()**: [talk](./slides/partial-markov-catnip.pdf) at the [CatNiP workshop](https://sites.google.com/view/catniporg/home?authuser=0).
 * **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at the [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) on [partial Markov categories](https://arxiv.org/abs/2301.12989) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
 * **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
 * **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/programme.html) ([conference paper](https://arxiv.org/abs/2205.08916)).
