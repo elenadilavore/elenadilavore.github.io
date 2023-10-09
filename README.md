@@ -12,7 +12,7 @@ I am also interested in categorical probability.
 I have worked on a [partial version of Markov categories](https://arxiv.org/abs/2301.12989) and [stochastic dataflow](https://arxiv.org/abs/2202.02061).
 
 ## Publications
-* Monoidal Width, to appear in [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
+* [Monoidal Width](https://doi.org/10.46298/lmcs-19(3:15)2023), [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
   *EDL and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2212.13229)]
 * [Evidential Decision Theory via Partial Markov Categories](https://doi.org/10.1109/LICS56636.2023.10175776), [LiCS 2023](https://lics.siglog.org/lics23/)  
