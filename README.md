@@ -12,7 +12,7 @@ I am also interested in categorical probability.
 I have worked on a [partial version of Markov categories](https://arxiv.org/abs/2301.12989) and [stochastic dataflow](https://arxiv.org/abs/2202.02061).
 
 ## Publications
-* Monoidal Width, to appear in [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
+* [Monoidal Width](https://doi.org/10.46298/lmcs-19(3:15)2023), [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
   *EDL and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2212.13229)]
 * [Evidential Decision Theory via Partial Markov Categories](https://doi.org/10.1109/LICS56636.2023.10175776), [LiCS 2023](https://lics.siglog.org/lics23/)  
@@ -54,12 +54,12 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 ## Talks
 * **(1 August 2023)**: [talk](./slides/partial-markov-act.pdf) at [ACT](https://act2023.github.io/) (distinguished).
 * **(18 July 2023)**: [talk](./slides/mwd-coresources.pdf) at the [Coresources workshop](https://www.cst.cam.ac.uk/conference/coresources-2023).
-* **(27 June 2023)**: [talk](./slides/partial-markov-lics.pdf) at [LiCS](https://lics.siglog.org/lics23/).
+* **(27 June 2023)**: [talk](./slides/partial-markov-lics.pdf) at [LiCS](https://lics.siglog.org/lics23/) ([conference paper](https://arxiv.org/abs/2301.12989)).
 * **(25 June 2023)**: [talk](./slides/mwd-qualog.pdf) at the [QuaLog workshop](https://perso.ens-lyon.fr/matteo.mio/qualog23/).
 * **(14 June 2023)**: [talk](./slides/partial-markov-catnip.pdf) at the [CatNiP workshop](https://sites.google.com/view/catniporg/home?authuser=0).
 * **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at the [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) on [partial Markov categories](https://arxiv.org/abs/2301.12989) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
 * **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
-* **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/programme.html) ([conference paper](https://arxiv.org/abs/2205.08916)).
+* **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/programme.html) ([conference paper](https://arxiv.org/abs/2205.08916) and [recording of the talk](https://www.youtube.com/watch?v=vbEtgFRiJ7U&t=11874s)).
 * **(26 June 2022)**: [talk](./slides/mwd-fmcs.pdf) at the [FMCS workshop](https://pages.cpsc.ucalgary.ca/~robin/FMCS/FMCS2022/FMCS2022.html).
 * **(25 May 2022)**: [talk](./slides/mwd-comonads.pdf) at the [Comonads Meetup](https://kam.mff.cuni.cz/~jaklt/comonadwiki/index.php/Public:Seminar).
 * **(24 May 2022)**: [talk](./slides/dialectica-PN-bath.pdf) at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) at the University of Bath about Dialectica Petri nets.
@@ -73,6 +73,8 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * **(March 2020 - July 2020)**: participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
+* [Notes on monads for the CT course](./notes/monads-notes.pdf)
+* [Notes on adjunctions for the CT course](./notes/adjoints-notes.pdf)
 * [Open games on a category with feedback (draft)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf), with [Mario Román][mario] 
 * [Timing processes (the naive way)](https://www.ioc.ee/~mroman/data/notes/timing-processes.pdf), with [Mario Román][mario]
 * [Game equilibria as fixed point semantics](https://www.ioc.ee/~mroman/data/notes/game-equilibria.pdf), with [Mario Román][mario]
