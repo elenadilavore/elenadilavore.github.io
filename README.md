@@ -2,7 +2,9 @@
     title = "Photo of Elena Di Lavore"
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
     width = "200">
-I am a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
+    
+I am a postdoctoral researcher at the University of Pisa, working with Filippo Bonchi.
+Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 I am working on monoidal width, a measure of computational complexity for morphisms in monoidal categories.
 This general framework captures [path width, tree width and branch width](https://arxiv.org/abs/2202.07582), and [rank width](https://arxiv.org/abs/2205.08916).
