@@ -41,11 +41,13 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 
 ## Preprints
 
+* *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*, [Effectful Trace Semantics via Effectful Streams](./notes/effectful-traces.pdf)
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
 ## Academic service
+* **(since November 2023)**: member of the steering committee of the [Adjoint School](http://adjointschool.com/index.html).
 * **(since May 2023)**: member of the executive board of [Compositionality](https://compositionality-journal.org/).
 * **(January - May 2023)**: TA for the [category theory and applications](https://compose.ioc.ee/CourseCategoryTheory.html) course at Tallinn University of Technology.
 * **(8-9 September 2022)**: local co-organiser [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
@@ -54,6 +56,8 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
+* **(8 January 2024)**: [talk](./slides/effectful-ts-lambdacalculus.pdf) at [Directions and Perspectives in the λ-calculus](https://site.unibo.it/diapason/en/agenda/directions-and-perspectives-in-the-lambda-calculus).
+* **(22 November 2023)**: [talk](./slides/effectful-ts-nwpt.pdf) at the [Nordic Workshop on Programming Theory](https://conf.researchr.org/home/nwpt-2023).
 * **(1 August 2023)**: [talk](./slides/partial-markov-act.pdf) at [ACT](https://act2023.github.io/) (distinguished).
 * **(18 July 2023)**: [talk](./slides/mwd-coresources.pdf) at the [Coresources workshop](https://www.cst.cam.ac.uk/conference/coresources-2023).
 * **(27 June 2023)**: [talk](./slides/partial-markov-lics.pdf) at [LiCS](https://lics.siglog.org/lics23/) ([conference paper](https://arxiv.org/abs/2301.12989)).
@@ -69,9 +73,11 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 * **(26 January 2021)**: [talk](./slides/games-on-graphs-csl.pdf) at the [CSL 2021 conference](https://csl2021.fmf.uni-lj.si/) ([conference paper](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) and [recording of the talk](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s)).
 
 ## Events
+* **(1 January 2024)**: started a postdoctoral position with [Filippo Bonchi][filippo] at the Computer Science Department of the University of Pisa.
+* **(17 November 2023)**: I defended my [PhD thesis](./notes/phd-thesis.pdf) with Samson Abramsky and Dan Marsden as opponents. 
 * **(November 2022)**: academic visit to [Jamie Vicary][jamie] at the University of Cambridge ([slides](./slides/mwd-clash.pdf)).
 * **(August 2022)**: our [LiCS2022 paper on Monoidal Streams](https://dl.acm.org/doi/10.1145/3531130.3533365) won the Kleene Award and was chosen as a distinguished paper.
-* **(June 2022)**: academic visit to [Fabio Gadducci][gadducci] and [Filippo Bonchi][bonchi] at the University of Pisa.
+* **(June 2022)**: academic visit to [Fabio Gadducci][gadducci] and [Filippo Bonchi][filippo] at the University of Pisa.
 * **(March 2020 - July 2020)**: participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
@@ -101,5 +107,5 @@ I have worked on a [partial version of Markov categories](https://arxiv.org/abs/
 [giovanni]: https://www.cs.ox.ac.uk/people/giovanni.defelice/
 [nicoletta]: https://www.uninsubria.it/hpp/nicoletta.sabadini#
 [gadducci]: http://pages.di.unipi.it/gadducci/
-[bonchi]: https://www.irif.fr/~greta/author/filippo-bonchi/
+[filippo]: https://dblp.uni-trier.de/pid/25/5989.html
 [jamie]: https://www.cl.cam.ac.uk/~jv258/
