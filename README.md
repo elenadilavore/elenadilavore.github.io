@@ -6,12 +6,13 @@
 I am a postdoctoral researcher at the University of Pisa, working with Filippo Bonchi.
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
-I am working on monoidal width, a measure of computational complexity for morphisms in monoidal categories.
+I am interested in categorical probability. 
+I have worked on a [partial version of Markov categories](https://arxiv.org/abs/2301.12989) and [stochastic dataflow](https://arxiv.org/abs/2202.02061).
+
+I have worked on monoidal width, a measure of computational complexity for morphisms in monoidal categories.
 This general framework captures [path width, tree width and branch width](https://arxiv.org/abs/2202.07582), and [rank width](https://arxiv.org/abs/2205.08916).
 [These are the slides](./slides/mwd-comonads.pdf) of my most complete presentation of this work.
 
-I am also interested in categorical probability. 
-I have worked on a [partial version of Markov categories](https://arxiv.org/abs/2301.12989) and [stochastic dataflow](https://arxiv.org/abs/2202.02061).
 
 ## Publications
 * [Monoidal Width](https://doi.org/10.46298/lmcs-19(3:15)2023), [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
