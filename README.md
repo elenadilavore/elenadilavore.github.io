@@ -3,7 +3,7 @@
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
     width = "200">
     
-I am a postdoctoral researcher at the University of Pisa, working with Filippo Bonchi.
+I am a postdoctoral researcher at the University of Pisa, working with [Filippo Bonchi][filippo].
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 I am interested in categorical probability. 
@@ -75,7 +75,7 @@ This general framework captures [path width, tree width and branch width](https:
 
 ## Events
 * **(1 January 2024)**: started a postdoctoral position with [Filippo Bonchi][filippo] at the Computer Science Department of the University of Pisa.
-* **(17 November 2023)**: I defended my [PhD thesis](./notes/phd-thesis.pdf) with Samson Abramsky and Dan Marsden as opponents. 
+* **(17 November 2023)**: I defended my [PhD thesis](./notes/phd-thesis.pdf) with [Samson Abramsky][abramsky] and [Dan Marsden][marsden] as opponents. 
 * **(November 2022)**: academic visit to [Jamie Vicary][jamie] at the University of Cambridge ([slides](./slides/mwd-clash.pdf)).
 * **(August 2022)**: our [LiCS2022 paper on Monoidal Streams](https://dl.acm.org/doi/10.1145/3531130.3533365) won the Kleene Award and was chosen as a distinguished paper.
 * **(June 2022)**: academic visit to [Fabio Gadducci][gadducci] and [Filippo Bonchi][filippo] at the University of Pisa.
@@ -91,10 +91,10 @@ This general framework captures [path width, tree width and branch width](https:
 * [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf), with [Mario Román][mario]
 
 ## Education
-* *November 2019 - present*: PhD student at **Tallinn University of Technology** under the supervision of Paweł Sobociński.
-* *September 2018 - September 2019*: MSc in Mathematics and Foundations of Computer Science at the **University of Oxford**, where I learned category theory (and graph theory).
-* *September 2017 - September 2018*: BSc in Mathematics at **Università di Pisa**, where I studied some pure math (groups, rings, topology, set theory).
-* *September 2014 - July 2017*: BSc in Mathematical Engineering at **Politecnico di Milano**, where I studied the mathematics that is useful for engineering (mathematical analysis, probability, statistics, numerical analysis, partial differential equations, control systems) and some basics of engineering.
+* *November 2019 - November 2023*: PhD at **Tallinn University of Technology** under the supervision of Paweł Sobociński.
+* *September 2018 - September 2019*: MSc in Mathematics and Foundations of Computer Science at the **University of Oxford**, where I learned category theory.
+* *September 2017 - September 2018*: BSc in Mathematics at **Università di Pisa**, where I studied some pure math.
+* *September 2014 - July 2017*: BSc in Mathematical Engineering at **Politecnico di Milano**, where I studied the mathematics that is useful for engineering and some basics of engineering.
 
 [My CV](https://github.com/elenadilavore/cv/raw/master/CVElenaDiLavore.pdf)
 
@@ -110,3 +110,5 @@ This general framework captures [path width, tree width and branch width](https:
 [gadducci]: http://pages.di.unipi.it/gadducci/
 [filippo]: https://dblp.uni-trier.de/pid/25/5989.html
 [jamie]: https://www.cl.cam.ac.uk/~jv258/
+[abramsky]: https://www.cs.ox.ac.uk/people/samson.abramsky/
+[marsden]: https://stringdiagram.com/
