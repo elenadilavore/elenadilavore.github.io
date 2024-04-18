@@ -57,6 +57,10 @@ This general framework captures [path width, tree width and branch width](https:
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
+* **(9 April 2024)**: [talk](./slides/effectful-traces-padova.pdf) at the University of Padova.
+* **(19 March 2024)**: [talk](./slides/effectful-traces-tallcat.pdf) at the workshop on [Process Theory for Security Protocols and Cryptography](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html).
+* **(8 March 2024)**: [talk](./slides/partial-markov-oasis.pdf) at the [OASIS](https://www.cs.ox.ac.uk/seminars/oasis/) seminar at the University of Oxford.
+* **(29 February 2024)**: [talk](./slides/effectful-ts-pisa.pdf) at the [Challenges and Perspectives of Formal Methods for Trustworthy Software](https://dottorato.di.unipi.it/seminar-series-2023-2024/) seminar series at the University of Pisa.
 * **(8 January 2024)**: [talk](./slides/effectful-ts-lambdacalculus.pdf) at [Directions and Perspectives in the λ-calculus](https://site.unibo.it/diapason/en/agenda/directions-and-perspectives-in-the-lambda-calculus).
 * **(22 November 2023)**: [talk](./slides/effectful-ts-nwpt.pdf) at the [Nordic Workshop on Programming Theory](https://conf.researchr.org/home/nwpt-2023).
 * **(1 August 2023)**: [talk](./slides/partial-markov-act.pdf) at [ACT](https://act2023.github.io/) (distinguished).
@@ -82,8 +86,9 @@ This general framework captures [path width, tree width and branch width](https:
 * **(March 2020 - July 2020)**: participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
-* [Notes on monads for the CT course](./notes/monads-notes.pdf)
-* [Notes on adjunctions for the CT course](./notes/adjoints-notes.pdf)
+* [Notes on monoidal categories for the CT course (Pisa)](./notes/monoidal-categories.pdf)
+* [Notes on monads for the CT course (Tallinn)](./notes/monads-notes.pdf)
+* [Notes on adjunctions for the CT course (Tallinn)](./notes/adjoints-notes.pdf)
 * [Open games on a category with feedback (draft)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf), with [Mario Román][mario] 
 * [Timing processes (the naive way)](https://www.ioc.ee/~mroman/data/notes/timing-processes.pdf), with [Mario Román][mario]
 * [Game equilibria as fixed point semantics](https://www.ioc.ee/~mroman/data/notes/game-equilibria.pdf), with [Mario Román][mario]
