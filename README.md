@@ -86,6 +86,7 @@ This general framework captures [path width, tree width and branch width](https:
 * **(March 2020 - July 2020)**: participated in the [ACT school 2020](http://adjointschool.com/2020.html) in the [Dialectica categories for Petri nets project](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/) under the supervision of [Valeria de Paiva][valeria]. We wrote a [blogpost on the nCafé](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
 
 ## Notes
+* [Notes on Kleisli categories for the CT course (Pisa)](./notes/kleisli-categories.pdf)
 * [Notes on monoidal categories for the CT course (Pisa)](./notes/monoidal-categories.pdf)
 * [Notes on monads for the CT course (Tallinn)](./notes/monads-notes.pdf)
 * [Notes on adjunctions for the CT course (Tallinn)](./notes/adjoints-notes.pdf)
