@@ -57,6 +57,7 @@ This general framework captures [path width, tree width and branch width](https:
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
+* **(16 May 2024)**: [talk](./slides/effectful-traces-topos.pdf) at the [Topos Institute Colloquium](https://topos.site/events/topos-colloquium/). 
 * **(9 April 2024)**: [talk](./slides/effectful-traces-padova.pdf) at the University of Padova.
 * **(19 March 2024)**: [talk](./slides/effectful-traces-tallcat.pdf) at the workshop on [Process Theory for Security Protocols and Cryptography](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html).
 * **(8 March 2024)**: [talk](./slides/partial-markov-oasis.pdf) at the [OASIS](https://www.cs.ox.ac.uk/seminars/oasis/) seminar at the University of Oxford.
