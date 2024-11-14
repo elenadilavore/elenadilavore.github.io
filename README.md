@@ -6,15 +6,13 @@
 I am a postdoctoral researcher at the University of Pisa, working with [Filippo Bonchi][filippo].
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
-I am interested in categorical probability. 
-I have worked on a [partial version of Markov categories](https://arxiv.org/abs/2301.12989) and [stochastic dataflow](https://arxiv.org/abs/2202.02061).
-
-I have worked on monoidal width, a measure of computational complexity for morphisms in monoidal categories.
-This general framework captures [path width, tree width and branch width](https://arxiv.org/abs/2202.07582), and [rank width](https://arxiv.org/abs/2205.08916).
-[These are the slides](./slides/mwd-comonads.pdf) of my most complete presentation of this work.
-
-
 ## Publications
+* Strong Induction is an up-to Technique, to appear in [CSL 2025](https://csl2025.github.io/)  
+  *[Filippo Bonchi][filippo], EDL and Anna Ricci*
+* A Coalgebraic Model of Quantum Bisimulation, to appear in [ACT 2024](https://oxford24.github.io/index.html)  
+  *[Lorenzo Ceragioli][lorenzoceragioli], EDL, Giuseppe Lormurno and Gabriele Tedeschi*
+* [Categorical Foundation of Explainable AI: A Unifying Theory](https://doi.org/10.1007/978-3-031-63800-8_10), [xAI 2024](https://xaiworldconference.com/2024/)  
+  *[Francesco Giannini][francescogiannini], [Stefano Fioravanti][stefanofioravanti], [Pietro Barbiero][pietrobarbiero], [Alberto Tonda][albertotonda], [Pietro Liò][pietrolio], and EDL*
 * [Monoidal Width](https://doi.org/10.46298/lmcs-19(3:15)2023), [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
   *EDL and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2212.13229)]
@@ -42,7 +40,8 @@ This general framework captures [path width, tree width and branch width](https:
 
 ## Preprints
 
-* *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*, [Effectful Trace Semantics via Effectful Streams](./notes/effectful-traces.pdf)
+* *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
+* *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*, Effectful Mealy Machines: Bisimulation and Trace [arXiv preprint](https://arxiv.org/abs/2410.10627) 2024.
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
@@ -57,6 +56,7 @@ This general framework captures [path width, tree width and branch width](https:
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
+* **(19 June 2024)**: [talk](./slides/effectful-traces-act.pdf) at [ACT](https://oxford24.github.io/index.html) (distinguished). 
 * **(16 May 2024)**: [talk](./slides/effectful-traces-topos.pdf) at the [Topos Institute Colloquium](https://topos.site/events/topos-colloquium/) ([recording](https://www.youtube.com/watch?v=o3t6zTvpZbs)). 
 * **(9 April 2024)**: [talk](./slides/effectful-traces-padova.pdf) at the University of Padova.
 * **(19 March 2024)**: [talk](./slides/effectful-traces-tallcat.pdf) at the workshop on [Process Theory for Security Protocols and Cryptography](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html).
@@ -119,3 +119,10 @@ This general framework captures [path width, tree width and branch width](https:
 [jamie]: https://www.cl.cam.ac.uk/~jv258/
 [abramsky]: https://www.cs.ox.ac.uk/people/samson.abramsky/
 [marsden]: https://stringdiagram.com/
+[bart]: https://www.cs.ru.nl/B.Jacobs/
+[lorenzoceragioli]: https://sysma.imtlucca.it/people/lorenzo-ceragioli
+[francescogiannini]: https://www.francescogiannini.eu/
+[stefanofioravanti]: https://stefanofioravanti6.wixsite.com/stefano-fioravanti
+[pietrobarbiero]: https://www.pietrobarbiero.eu/
+[pietrolio]: https://www.cl.cam.ac.uk/~pl219/
+[albertotonda]: https://www.researchgate.net/profile/Alberto-Tonda
