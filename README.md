@@ -66,6 +66,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(22 November 2023)**: [talk](./slides/effectful-ts-nwpt.pdf) at the [Nordic Workshop on Programming Theory](https://conf.researchr.org/home/nwpt-2023).
 * **(1 August 2023)**: [talk](./slides/partial-markov-act.pdf) at [ACT](https://act2023.github.io/) (distinguished).
 * **(18 July 2023)**: [talk](./slides/mwd-coresources.pdf) at the [Coresources workshop](https://www.cst.cam.ac.uk/conference/coresources-2023).
+* **(17 July 2023)**: [talk](./slides/partial-markov-walters.pdf) for the [Bob Walters tribute](https://cs.ttu.ee/events/walters/).
 * **(27 June 2023)**: [talk](./slides/partial-markov-lics.pdf) at [LiCS](https://lics.siglog.org/lics23/) ([conference paper](https://arxiv.org/abs/2301.12989)).
 * **(25 June 2023)**: [talk](./slides/mwd-qualog.pdf) at the [QuaLog workshop](https://perso.ens-lyon.fr/matteo.mio/qualog23/).
 * **(14 June 2023)**: [talk](./slides/partial-markov-catnip.pdf) at the [CatNiP workshop](https://sites.google.com/view/catniporg/home?authuser=0).
