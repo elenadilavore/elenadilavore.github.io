@@ -41,17 +41,20 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 ## Preprints
 
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
+* *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*, A Diagrammatic Algebra for Program Logics [arXiv preprint](https://arxiv.org/abs/2410.03561) 2024.
 * *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*, Effectful Mealy Machines: Bisimulation and Trace [arXiv preprint](https://arxiv.org/abs/2410.10627) 2024.
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
 ## Academic service
+* **(April 2025)**: program committee member for the [MFPS 2025 conference](https://www.coalg.org/calco-mfps-2025/mfps/).
+* **(March 2025)**: program committee member for the [ACT 2025 conference](https://gataslab.org/act2025/act2025).
 * **(since November 2023)**: member of the steering committee of the [Adjoint School](http://adjointschool.com/index.html).
 * **(since May 2023)**: member of the executive board of [Compositionality](https://compositionality-journal.org/).
 * **(January - May 2023)**: TA for the [category theory and applications](https://compose.ioc.ee/CourseCategoryTheory.html) course at Tallinn University of Technology.
 * **(8-9 September 2022)**: local co-organiser [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
-* **(May 2022)**: program committee member for the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/).
+* **(May 2022)**: program committee member for the [ACT 2022 conference](https://msp.cis.strath.ac.uk/act2022/).
 * **(September 2021 - August 2023)**:  co-organiser of the [ACT Adjoint school 2022 and 2023](http://adjointschool.com/).
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
@@ -80,6 +83,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(26 January 2021)**: [talk](./slides/games-on-graphs-csl.pdf) at the [CSL 2021 conference](https://csl2021.fmf.uni-lj.si/) ([conference paper](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) and [recording of the talk](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s)).
 
 ## Events
+* **(October, November 2024)**: academic visit to the Compositional Systems and Methods research group at Tallinn University of Technology.
 * **(March 2024)**: academic visit to [Mario Román][mario] at the University of Oxford. 
 * **(1 January 2024)**: started a postdoctoral position with [Filippo Bonchi][filippo] at the Computer Science Department of the University of Pisa.
 * **(17 November 2023)**: I defended my [PhD thesis](./notes/phd-thesis.pdf) with [Samson Abramsky][abramsky] and [Dan Marsden][marsden] as opponents. 
@@ -129,3 +133,4 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 [pietrobarbiero]: https://www.pietrobarbiero.eu/
 [pietrolio]: https://www.cl.cam.ac.uk/~pl219/
 [albertotonda]: https://www.researchgate.net/profile/Alberto-Tonda
+[alessandrodg]: https://alessandrodgr.github.io/
