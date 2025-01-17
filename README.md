@@ -86,6 +86,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(26 January 2021)**: [talk](./slides/games-on-graphs-csl.pdf) at the [CSL 2021 conference](https://csl2021.fmf.uni-lj.si/) ([conference paper](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) and [recording of the talk](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s)).
 
 ## Events
+* **(January 2025)**: started a postdoctoral position with [Sam Staton][sam] at the Computer Science Department of the University of Oxford.
 * **(October, November 2024)**: academic visit to the Compositional Systems and Methods research group at Tallinn University of Technology.
 * **(March 2024)**: academic visit to [Mario Román][mario] at the University of Oxford. 
 * **(1 January 2024)**: started a postdoctoral position with [Filippo Bonchi][filippo] at the Computer Science Department of the University of Pisa.
