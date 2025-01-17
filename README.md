@@ -10,7 +10,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 ## Publications
 * A Diagrammatic Algebra for Program Logics, to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
   *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
-  [arXiv preprint](https://arxiv.org/abs/2410.03561)
+  [[arXiv preprint](https://arxiv.org/abs/2410.03561)]
 * Strong Induction is an up-to Technique, to appear in [CSL 2025](https://csl2025.github.io/)  
   *[Filippo Bonchi][filippo], EDL and Anna Ricci*
 * A Coalgebraic Model of Quantum Bisimulation, to appear in [ACT 2024](https://oxford24.github.io/index.html)  
