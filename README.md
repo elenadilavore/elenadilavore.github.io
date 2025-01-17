@@ -3,10 +3,14 @@
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
     width = "200">
     
-I am a postdoctoral researcher at the University of Pisa, working with [Filippo Bonchi][filippo].
+I am a research associate at the University of Oxford, working with [Sam Staton][sam].
+Previously, I was a postdoctoral researcher at the University of Pisa, working with [Filippo Bonchi][filippo].
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 ## Publications
+* A Diagrammatic Algebra for Program Logics, to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
+  *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
+  [arXiv preprint](https://arxiv.org/abs/2410.03561)
 * Strong Induction is an up-to Technique, to appear in [CSL 2025](https://csl2025.github.io/)  
   *[Filippo Bonchi][filippo], EDL and Anna Ricci*
 * A Coalgebraic Model of Quantum Bisimulation, to appear in [ACT 2024](https://oxford24.github.io/index.html)  
@@ -41,7 +45,6 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 ## Preprints
 
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
-* *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*, A Diagrammatic Algebra for Program Logics [arXiv preprint](https://arxiv.org/abs/2410.03561) 2024.
 * *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*, Effectful Mealy Machines: Bisimulation and Trace [arXiv preprint](https://arxiv.org/abs/2410.10627) 2024.
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
@@ -104,7 +107,8 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf), with [Mario Román][mario]
 
 ## CV summary
-* *January 2024 - present*: postdoctoral researcher at the Computer Science Department, **Università di Pisa**, with [Filippo Bonchi][filippo]. 
+* *January 2025 - present*: research associate at the Computer Science Department, **University of Oxford**, with [Sam Staton][sam].
+* *January 2024 - December 2024*: postdoctoral researcher at the Computer Science Department, **Università di Pisa**, with [Filippo Bonchi][filippo]. 
 * *November 2019 - November 2023*: PhD at **Tallinn University of Technology** under the supervision of [Paweł Sobociński][pawel].
 * *September 2018 - September 2019*: MSc in Mathematics and Foundations of Computer Science at the **University of Oxford**, where I learned category theory.
 * *September 2017 - September 2018*: BSc in Mathematics at **Università di Pisa**, where I studied some pure math.
@@ -112,7 +116,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 [My CV](https://github.com/elenadilavore/cv/raw/master/CVElenaDiLavore.pdf)
 
-[mario]: https://www.ioc.ee/~mroman/
+[mario]: https://mroman42.github.io/
 [pawel]: https://www.ioc.ee/~pawel/
 [jules]: https://julesh.com/
 [gianola]: https://gianola.people.unibz.it/
@@ -134,3 +138,4 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 [pietrolio]: https://www.cl.cam.ac.uk/~pl219/
 [albertotonda]: https://www.researchgate.net/profile/Alberto-Tonda
 [alessandrodg]: https://alessandrodgr.github.io/
+[sam]: https://www.cs.ox.ac.uk/people/samuel.staton/main.html
