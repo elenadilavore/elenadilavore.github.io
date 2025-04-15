@@ -8,10 +8,13 @@ Previously, I was a postdoctoral researcher at the University of Pisa, working w
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 ## Publications
+* Effectful Mealy Machines: Bisimulation and Trace, to appear in [LiCS 2025](https://lics.siglog.org/lics25/)  
+  *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*  
+  [[arxiv](https://arxiv.org/abs/2410.10627)]
 * A Diagrammatic Algebra for Program Logics, to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
   *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arXiv preprint](https://arxiv.org/abs/2410.03561)]
-* Strong Induction is an up-to Technique, to appear in [CSL 2025](https://csl2025.github.io/)  
+* [Strong Induction is an up-to Technique](https://doi.org/10.4230/LIPIcs.CSL.2025.28), [CSL 2025](https://csl2025.github.io/)  
   *[Filippo Bonchi][filippo], EDL and Anna Ricci*
 * A Coalgebraic Model of Quantum Bisimulation, to appear in [ACT 2024](https://oxford24.github.io/index.html)  
   *[Lorenzo Ceragioli][lorenzoceragioli], EDL, Giuseppe Lormurno and Gabriele Tedeschi*
@@ -45,7 +48,6 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 ## Preprints
 
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
-* *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*, Effectful Mealy Machines: Bisimulation and Trace [arXiv preprint](https://arxiv.org/abs/2410.10627) 2024.
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
