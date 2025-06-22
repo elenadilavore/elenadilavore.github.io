@@ -13,7 +13,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * Tape Diagrams for Monoidal Monads, to appear in [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/)  
   *[Filippo Bonchi][filippo], Cipriano Junior Cioffo, [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arxiv](https://www.arxiv.org/abs/2503.22819)]
-* Effectful Mealy Machines: Bisimulation and Trace, to appear in [LiCS 2025](https://lics.siglog.org/lics25/) (***distinguished**)  
+* Effectful Mealy Machines: Bisimulation and Trace, to appear in [LiCS 2025](https://lics.siglog.org/lics25/) (**distinguished**)  
   *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*  
   [[arxiv](https://arxiv.org/abs/2410.10627)]
 * A Diagrammatic Algebra for Program Logics, to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
