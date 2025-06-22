@@ -8,7 +8,12 @@ Previously, I was a postdoctoral researcher at the University of Pisa, working w
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 ## Publications
-* Effectful Mealy Machines: Bisimulation and Trace, to appear in [LiCS 2025](https://lics.siglog.org/lics25/)  
+* Order in Partial Markov Categories, to appear in [MFPS XLI](https://www.coalg.org/calco-mfps-2025/mfps/)  
+  *EDL, [Mario Román][mario], [Paweł Sobociński][pawel] and [Márk Széles][mark]*
+* Tape Diagrams for Monoidal Monads, to appear in [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/)  
+  *[Filippo Bonchi][filippo], Cipriano Junior Cioffo, [Alessandro Di Giorgio][alessandrodg] and EDL*  
+  [[arxiv](https://www.arxiv.org/abs/2503.22819)]
+* Effectful Mealy Machines: Bisimulation and Trace, to appear in [LiCS 2025](https://lics.siglog.org/lics25/) (***distinguished**)  
   *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*  
   [[arxiv](https://arxiv.org/abs/2410.10627)]
 * A Diagrammatic Algebra for Program Logics, to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
@@ -32,7 +37,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Monoidal Width: Capturing Rank Width](https://doi.org/10.4204/EPTCS.380.16), [ACT 2022](https://msp.cis.strath.ac.uk/act2022/)  
   *EDL and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2205.08916)] [[Slides](./slides/mwd-act.pdf)]
-* [Monoidal Streams for Dataflow Programming](https://doi.org/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/)  
+* [Monoidal Streams for Dataflow Programming](https://doi.org/10.1145/3531130.3533365), [LiCS 2022](https://lics.siglog.org/lics22/) (**Kleene award, distinguished**)  
   *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*  
   [[arXiv](https://arxiv.org/abs/2202.02061)]
 * [Compositional modelling of network games, 2021](https://doi.org/10.4230/LIPIcs.CSL.2021.30), [CSL 2021](https://csl2021.fmf.uni-lj.si/)  
@@ -64,6 +69,11 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
+* **(17 June 2025)**: [invited talk](./slides/effectful-traces-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/).
+* **(4 June 2025)**: [invited talk](./slides/effectful-traces-lhc.pdf) at the [LHC days](https://smimram.gitlabpages.inria.fr/lhc/journees.html).
+* **(24 April 2025)**: [invited talk](./slides/partial-markov-syco13.pdf) at [SYCO 13](www.cl.cam.ac.uk/events/syco/13/).
+* **(13 March 2025)**: [talk](./slides/hoare-tapes-chocola.pdf) at the [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2025-03-13/).
+* **(12 March 2025)**: [talk](./slides/effectful-streams-irif.pdf) at IRIF (Paris).
 * **(19 June 2024)**: [talk](./slides/effectful-traces-act.pdf) at [ACT](https://oxford24.github.io/index.html) (distinguished). 
 * **(16 May 2024)**: [talk](./slides/effectful-traces-topos.pdf) at the [Topos Institute Colloquium](https://topos.site/events/topos-colloquium/) ([recording](https://www.youtube.com/watch?v=o3t6zTvpZbs)). 
 * **(9 April 2024)**: [talk](./slides/effectful-traces-padova.pdf) at the University of Padova.
@@ -142,3 +152,4 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 [albertotonda]: https://www.researchgate.net/profile/Alberto-Tonda
 [alessandrodg]: https://alessandrodgr.github.io/
 [sam]: https://www.cs.ox.ac.uk/people/samuel.staton/main.html
+[mark]: https://markszeles.github.io/
