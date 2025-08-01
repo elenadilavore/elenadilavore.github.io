@@ -52,8 +52,10 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
   *[Giovanni de Felice][giovanni], EDL, [Mario Román][mario], [Alexis Toumi][alexis]*  
   [[arXiv](https://arxiv.org/abs/2005.09439)]
 
-## Preprints
+## Preprints and extended abstracts
 
+* *EDL and [Mario Román][mario]*, Graded Coalgebras of Monads for Continuous time Dynamics, [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/accepted/) [early ideas](https://mroman42.github.io/papers/graded-coalgebras-of-monads-for-continuous-dynamics.pdf).
+* *EDL and [Mario Román][mario]*, Timing via Pinwheel Double Categories, [arXiv preprint](https://arxiv.org/abs/2504.12846) 2025.
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
@@ -71,33 +73,36 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
-* **()**: [talk](./slides/on-writing-lmw.pdf) at the [Logic Mentoring Workshop](https://logic-mentoring-workshop.github.io/lics25/) colocated with LiCS 2025.
+
+* **(23 June 2025)**: [talk](./slides/on-writing-lmw.pdf) at the [Logic Mentoring Workshop](https://logic-mentoring-workshop.github.io/lics25/) colocated with LiCS 2025.
 * **(17 June 2025)**: [invited talk](./slides/effectful-traces-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/) ([associated abstract](https://doi.org/10.4230/LIPIcs.CALCO.2025.1)).
+* **(17 June 2025)**: talk at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/).
 * **(4 June 2025)**: [invited talk](./slides/effectful-traces-lhc.pdf) at the [LHC days](https://smimram.gitlabpages.inria.fr/lhc/journees.html).
 * **(24 April 2025)**: [invited talk](./slides/partial-markov-syco13.pdf) at [SYCO 13](www.cl.cam.ac.uk/events/syco/13/).
-* **(13 March 2025)**: [talk](./slides/hoare-tapes-chocola.pdf) at the [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2025-03-13/).
+* **(13 March 2025)**: [talk](./slides/hoare-tapes-chocola.pdf) at the [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2025-03-13/) (IRIF, Paris).
 * **(12 March 2025)**: [talk](./slides/effectful-streams-irif.pdf) at IRIF (Paris).
 * **(19 June 2024)**: [talk](./slides/effectful-traces-act.pdf) at [ACT](https://oxford24.github.io/index.html) (distinguished). 
 * **(16 May 2024)**: [talk](./slides/effectful-traces-topos.pdf) at the [Topos Institute Colloquium](https://topos.site/events/topos-colloquium/) ([recording](https://www.youtube.com/watch?v=o3t6zTvpZbs)). 
-* **(9 April 2024)**: [talk](./slides/effectful-traces-padova.pdf) at the University of Padova.
-* **(19 March 2024)**: [talk](./slides/effectful-traces-tallcat.pdf) at the workshop on [Process Theory for Security Protocols and Cryptography](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html).
-* **(8 March 2024)**: [talk](./slides/partial-markov-oasis.pdf) at the [OASIS](https://www.cs.ox.ac.uk/seminars/oasis/) seminar at the University of Oxford.
-* **(29 February 2024)**: [talk](./slides/effectful-ts-pisa.pdf) at the [Challenges and Perspectives of Formal Methods for Trustworthy Software](https://dottorato.di.unipi.it/seminar-series-2023-2024/) seminar series at the University of Pisa.
-* **(8 January 2024)**: [talk](./slides/effectful-ts-lambdacalculus.pdf) at [Directions and Perspectives in the λ-calculus](https://site.unibo.it/diapason/en/agenda/directions-and-perspectives-in-the-lambda-calculus).
+* **(9 April 2024)**: [talk](./slides/effectful-traces-padova.pdf) (University of Padova).
+* **(19 March 2024)**: [talk](./slides/effectful-traces-tallcat.pdf) at the workshop on [Process Theory for Security Protocols and Cryptography](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html) (Tallinn University of Technology).
+* **(8 March 2024)**: [talk](./slides/partial-markov-oasis.pdf) at the [OASIS](https://www.cs.ox.ac.uk/seminars/oasis/) seminar (University of Oxford).
+* **(29 February 2024)**: [talk](./slides/effectful-ts-pisa.pdf) at the [Challenges and Perspectives of Formal Methods for Trustworthy Software](https://dottorato.di.unipi.it/seminar-series-2023-2024/) seminar series (University of Pisa).
+* **(8 January 2024)**: [talk](./slides/effectful-ts-lambdacalculus.pdf) at [Directions and Perspectives in the λ-calculus](https://site.unibo.it/diapason/en/agenda/directions-and-perspectives-in-the-lambda-calculus) (University of Bologna).
 * **(22 November 2023)**: [talk](./slides/effectful-ts-nwpt.pdf) at the [Nordic Workshop on Programming Theory](https://conf.researchr.org/home/nwpt-2023).
 * **(1 August 2023)**: [talk](./slides/partial-markov-act.pdf) at [ACT](https://act2023.github.io/) (distinguished).
-* **(18 July 2023)**: [talk](./slides/mwd-coresources.pdf) at the [Coresources workshop](https://www.cst.cam.ac.uk/conference/coresources-2023).
-* **(17 July 2023)**: [talk](./slides/partial-markov-walters.pdf) for the [Bob Walters tribute](https://cs.ttu.ee/events/walters/).
+* **(18 July 2023)**: [talk](./slides/mwd-coresources.pdf) at the [Coresources workshop](https://www.cst.cam.ac.uk/conference/coresources-2023) (University of Cambridge).
+* **(17 July 2023)**: [talk](./slides/partial-markov-walters.pdf) for the [Bob Walters tribute](https://cs.ttu.ee/events/walters/) (Tallinn University of Technology).
 * **(27 June 2023)**: [talk](./slides/partial-markov-lics.pdf) at [LiCS](https://lics.siglog.org/lics23/) ([conference paper](https://arxiv.org/abs/2301.12989)).
 * **(25 June 2023)**: [talk](./slides/mwd-qualog.pdf) at the [QuaLog workshop](https://perso.ens-lyon.fr/matteo.mio/qualog23/).
-* **(14 June 2023)**: [talk](./slides/partial-markov-catnip.pdf) at the [CatNiP workshop](https://sites.google.com/view/catniporg/home?authuser=0).
-* **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at the [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) on [partial Markov categories](https://arxiv.org/abs/2301.12989) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
+* **(14 June 2023)**: [talk](./slides/partial-markov-catnip.pdf) at the [CatNiP workshop](https://sites.google.com/view/catniporg/home?authuser=0) (University of Edinburgh).
+* **(26 April 2023)**: [talk](./slides/partial-markov-itaca.pdf) at the [ItaCa fest](https://progetto-itaca.github.io/pages/fest23.html) ([recording](https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2)).
 * **(1 August 2022)**: [talk](./slides/mwd-wil.pdf) at the [WiL workshop](https://sites.google.com/g.uporto.pt/wil2022).
 * **(22 July 2022)**: [talk](./slides/mwd-act.pdf) at the [ACT2022 conference](https://msp.cis.strath.ac.uk/act2022/programme.html) ([conference paper](https://arxiv.org/abs/2205.08916) and [recording of the talk](https://www.youtube.com/watch?v=vbEtgFRiJ7U&t=11874s)).
 * **(26 June 2022)**: [talk](./slides/mwd-fmcs.pdf) at the [FMCS workshop](https://pages.cpsc.ucalgary.ca/~robin/FMCS/FMCS2022/FMCS2022.html).
-* **(25 May 2022)**: [talk](./slides/mwd-comonads.pdf) at the [Comonads Meetup](https://kam.mff.cuni.cz/~jaklt/comonadwiki/index.php/Public:Seminar).
-* **(24 May 2022)**: [talk](./slides/dialectica-PN-bath.pdf) at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) at the University of Bath about Dialectica Petri nets.
-* **(13-14 December 2021)**: talks at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/). [Slides of the talk on monoidal width](./slides/mwd-syco.pdf), [slides of the talk on Dialectica Petri nets](./slides/dialectica-PN-syco.pdf).
+* **(25 May 2022)**: [talk](./slides/mwd-comonads.pdf) at the [Comonads Meetup](https://kam.mff.cuni.cz/~jaklt/comonadwiki/index.php/Public:Seminar) (online).
+* **(24 May 2022)**: [talk](./slides/dialectica-PN-bath.pdf) at the [Mathematical Foundations Seminar](https://wiki.bath.ac.uk/display/MFS/Mathematical+Foundations+Seminars) (online, University of Bath).
+* **(14 December 2021)**: [talk](./slides/mwd-syco.pdf) at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/).
+* **(13 December 2021)**: [talk](./slides/dialectica-PN-syco.pdf) at [SYCO 8](https://www.cl.cam.ac.uk/events/syco/8/).
 * **(26 January 2021)**: [talk](./slides/games-on-graphs-csl.pdf) at the [CSL 2021 conference](https://csl2021.fmf.uni-lj.si/) ([conference paper](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) and [recording of the talk](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s)).
 
 ## Events
