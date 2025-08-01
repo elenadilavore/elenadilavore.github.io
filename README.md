@@ -54,6 +54,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 ## Preprints and extended abstracts
 
+* *[Filippo Bonchi][filippo], EDL, [Mario Román][mario] and [Sam Staton][sam]*, Program Logics via Distributive Monoidal Categories, [arXiv preprint](https://www.arxiv.org/abs/2507.18238) 2025.
 * *EDL and [Mario Román][mario]*, Graded Coalgebras of Monads for Continuous time Dynamics, [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/accepted/) [early ideas](https://mroman42.github.io/papers/graded-coalgebras-of-monads-for-continuous-dynamics.pdf).
 * *EDL and [Mario Román][mario]*, Timing via Pinwheel Double Categories, [arXiv preprint](https://arxiv.org/abs/2504.12846) 2025.
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
