@@ -9,13 +9,14 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 ## Publications
 * Order in Partial Markov Categories, to appear in [MFPS XLI](https://www.coalg.org/calco-mfps-2025/mfps/)  
-  *EDL, [Mario Román][mario], [Paweł Sobociński][pawel] and [Márk Széles][mark]*
-* Tape Diagrams for Monoidal Monads, to appear in [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/)  
+  *EDL, [Mario Román][mario], [Paweł Sobociński][pawel] and [Márk Széles][mark]*  
+  [[arXiv](https://arxiv.org/abs/2507.19424)]
+* [Tape Diagrams for Monoidal Monads](https://doi.org/10.4230/LIPIcs.CALCO.2025.11), [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/)  
   *[Filippo Bonchi][filippo], Cipriano Junior Cioffo, [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arxiv](https://www.arxiv.org/abs/2503.22819)]
 * Effectful Mealy Machines: Bisimulation and Trace, to appear in [LiCS 2025](https://lics.siglog.org/lics25/) (**distinguished**)  
   *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*  
-  [[arxiv](https://arxiv.org/abs/2410.10627)]
+  [[arXiv](https://arxiv.org/abs/2410.10627)] [[slides of CALCO invited talk](./slides/effectful-traces-calco.pdf)]
 * A Diagrammatic Algebra for Program Logics, to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
   *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arXiv preprint](https://arxiv.org/abs/2410.03561)]
@@ -24,7 +25,8 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * A Coalgebraic Model of Quantum Bisimulation, to appear in [ACT 2024](https://oxford24.github.io/index.html)  
   *[Lorenzo Ceragioli][lorenzoceragioli], EDL, Giuseppe Lormurno and Gabriele Tedeschi*
 * [Categorical Foundation of Explainable AI: A Unifying Theory](https://doi.org/10.1007/978-3-031-63800-8_10), [xAI 2024](https://xaiworldconference.com/2024/)  
-  *[Francesco Giannini][francescogiannini], [Stefano Fioravanti][stefanofioravanti], [Pietro Barbiero][pietrobarbiero], [Alberto Tonda][albertotonda], [Pietro Liò][pietrolio], and EDL*
+  *[Francesco Giannini][francescogiannini], [Stefano Fioravanti][stefanofioravanti], [Pietro Barbiero][pietrobarbiero], [Alberto Tonda][albertotonda], [Pietro Liò][pietrolio], and EDL*  
+  [[arXiv](https://arxiv.org/abs/2304.14094)]
 * [Monoidal Width](https://doi.org/10.46298/lmcs-19(3:15)2023), [LMCS](https://lmcs.episciences.org/), Volume 19, Issue 3  
   *EDL and [Paweł Sobociński][pawel]*  
   [[arXiv](https://arxiv.org/abs/2212.13229)]
@@ -69,7 +71,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Talks
-* **(17 June 2025)**: [invited talk](./slides/effectful-traces-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/).
+* **(17 June 2025)**: [invited talk](./slides/effectful-traces-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/) ([associated abstract](https://doi.org/10.4230/LIPIcs.CALCO.2025.1)).
 * **(4 June 2025)**: [invited talk](./slides/effectful-traces-lhc.pdf) at the [LHC days](https://smimram.gitlabpages.inria.fr/lhc/journees.html).
 * **(24 April 2025)**: [invited talk](./slides/partial-markov-syco13.pdf) at [SYCO 13](www.cl.cam.ac.uk/events/syco/13/).
 * **(13 March 2025)**: [talk](./slides/hoare-tapes-chocola.pdf) at the [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2025-03-13/).
