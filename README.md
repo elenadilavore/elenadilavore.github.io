@@ -56,6 +56,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 * *[Filippo Bonchi][filippo], EDL, [Mario Román][mario] and [Sam Staton][sam]*, Program Logics via Distributive Monoidal Categories, [arXiv preprint](https://www.arxiv.org/abs/2507.18238) 2025.
 * *EDL and [Mario Román][mario]*, Graded Coalgebras of Monads for Continuous time Dynamics, [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/accepted/) [early ideas](https://mroman42.github.io/papers/graded-coalgebras-of-monads-for-continuous-dynamics.pdf).
+* *EDL, [Mario Román][mario] and [Paweł Sobociński][pawel]*, Partial Markov Categories, [arXiv preprint](https://www.arxiv.org/abs/2502.03477) 2025.
 * *EDL and [Mario Román][mario]*, Timing via Pinwheel Double Categories, [arXiv preprint](https://arxiv.org/abs/2504.12846) 2025.
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
 * *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
@@ -77,7 +78,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 * **(23 June 2025)**: [talk](./slides/on-writing-lmw.pdf) at the [Logic Mentoring Workshop](https://logic-mentoring-workshop.github.io/lics25/) colocated with LiCS 2025.
 * **(17 June 2025)**: [invited talk](./slides/effectful-traces-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/) ([associated abstract](https://doi.org/10.4230/LIPIcs.CALCO.2025.1)).
-* **(17 June 2025)**: talk at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/).
+* **(17 June 2025)**: [talk](./slides/graded-coalgebras-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/) (with [Mario Román][mario]).
 * **(4 June 2025)**: [invited talk](./slides/effectful-traces-lhc.pdf) at the [LHC days](https://smimram.gitlabpages.inria.fr/lhc/journees.html).
 * **(24 April 2025)**: [invited talk](./slides/partial-markov-syco13.pdf) at [SYCO 13](www.cl.cam.ac.uk/events/syco/13/).
 * **(13 March 2025)**: [talk](./slides/hoare-tapes-chocola.pdf) at the [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2025-03-13/) (IRIF, Paris).
