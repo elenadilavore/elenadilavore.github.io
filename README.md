@@ -3,7 +3,7 @@
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
     width = "200">
     
-I am a research associate at the University of Oxford, working with [Sam Staton][sam].
+I am a research associate at the University of Oxford, working with [Sam Staton][sam] as a creator for the ARIA [Safeguarded AI program](https://www.aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/).
 Previously, I was a postdoctoral researcher at the University of Pisa, working with [Filippo Bonchi][filippo].
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
@@ -84,7 +84,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(19 June 2024)**: [talk](./slides/effectful-traces-act.pdf) at [ACT](https://oxford24.github.io/index.html) (distinguished). 
 * **(16 May 2024)**: [talk](./slides/effectful-traces-topos.pdf) at the [Topos Institute Colloquium](https://topos.site/events/topos-colloquium/) ([recording](https://www.youtube.com/watch?v=o3t6zTvpZbs)). 
 * **(9 April 2024)**: [talk](./slides/effectful-traces-padova.pdf) (University of Padova).
-* **(19 March 2024)**: [talk](./slides/effectful-traces-tallcat.pdf) at the workshop on [Process Theory for Security Protocols and Cryptography](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html) (Tallinn University of Technology).
+* **(19 March 2024)**: [talk](./slides/effectful-traces-tallcat.pdf) at the[Process Theory for Security Protocols and Cryptography](https://www.ioc.ee/~cneste/ptspc-workshop/2024.html) workshop (Tallinn University of Technology).
 * **(8 March 2024)**: [talk](./slides/partial-markov-oasis.pdf) at the [OASIS](https://www.cs.ox.ac.uk/seminars/oasis/) seminar (University of Oxford).
 * **(29 February 2024)**: [talk](./slides/effectful-ts-pisa.pdf) at the [Challenges and Perspectives of Formal Methods for Trustworthy Software](https://dottorato.di.unipi.it/seminar-series-2023-2024/) seminar series (University of Pisa).
 * **(8 January 2024)**: [talk](./slides/effectful-ts-lambdacalculus.pdf) at [Directions and Perspectives in the λ-calculus](https://site.unibo.it/diapason/en/agenda/directions-and-perspectives-in-the-lambda-calculus) (University of Bologna).
@@ -122,7 +122,6 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Notes on monads for the CT course (Tallinn)](./notes/monads-notes.pdf)
 * [Notes on adjunctions for the CT course (Tallinn)](./notes/adjoints-notes.pdf)
 * [Open games on a category with feedback (draft)](https://github.com/elenadilavore/open-games-on-feedback/blob/34588e8147afab2f1df0097ed0894c109b7486d1/main.pdf), with [Mario Román][mario] 
-* [Timing processes (the naive way)](https://www.ioc.ee/~mroman/data/notes/timing-processes.pdf), with [Mario Román][mario]
 * [Game equilibria as fixed point semantics](https://www.ioc.ee/~mroman/data/notes/game-equilibria.pdf), with [Mario Román][mario]
 * [Composing optics with feedback](https://www.ioc.ee/~mroman/data/notes/composingopticswithfeedback.pdf), with [Mario Román][mario]
 * [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf), with [Mario Román][mario]
