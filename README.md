@@ -8,6 +8,9 @@ Previously, I was a postdoctoral researcher at the University of Pisa, working w
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 ## Publications
+* [Coinductive Streams in Monoidal Categories](https://doi.org/10.46298/lmcs-21(3:18)2025), [LMCS](https://lmcs.episciences.org/), Volume 21, Issue 3  
+  *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]* 
+  [arXiv](https://arxiv.org/abs/2212.14494)
 * Order in Partial Markov Categories, to appear in [MFPS XLI](https://www.coalg.org/calco-mfps-2025/mfps/)  
   *EDL, [Mario Román][mario], [Paweł Sobociński][pawel] and [Márk Széles][mark]*  
   [[arXiv](https://arxiv.org/abs/2507.19424)]
@@ -59,7 +62,6 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * *EDL, [Mario Román][mario] and [Paweł Sobociński][pawel]*, Partial Markov Categories, [arXiv preprint](https://www.arxiv.org/abs/2502.03477) 2025.
 * *EDL and [Mario Román][mario]*, Timing via Pinwheel Double Categories, [arXiv preprint](https://arxiv.org/abs/2504.12846) 2025.
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
-* *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]*, Coinductive Streams in Monoidal Categories, [arXiv preprint](https://arxiv.org/abs/2212.14494) 2022.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 * *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
