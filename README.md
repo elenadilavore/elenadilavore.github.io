@@ -17,10 +17,10 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Tape Diagrams for Monoidal Monads](https://doi.org/10.4230/LIPIcs.CALCO.2025.11), [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/)  
   *[Filippo Bonchi][filippo], Cipriano Junior Cioffo, [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arxiv](https://www.arxiv.org/abs/2503.22819)]
-* [Effectful Mealy Machines: Bisimulation and Trace](10.1109/LICS65433.2025.00047), [LiCS 2025](https://lics.siglog.org/lics25/) (**distinguished**)  
+* [Effectful Mealy Machines: Bisimulation and Trace](https://doi.org/10.1109/LICS65433.2025.00047), [LiCS 2025](https://lics.siglog.org/lics25/) (**distinguished**)  
   *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*  
   [[arXiv](https://arxiv.org/abs/2410.10627)] [[slides of CALCO invited talk](./slides/effectful-traces-calco.pdf)]
-* A Diagrammatic Algebra for Program Logics, to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
+* [A Diagrammatic Algebra for Program Logics](https://doi.org/10.1007/978-3-031-90897-2_15), to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
   *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arXiv preprint](https://arxiv.org/abs/2410.03561)]
 * [Strong Induction is an up-to Technique](https://doi.org/10.4230/LIPIcs.CSL.2025.28), [CSL 2025](https://csl2025.github.io/)  
