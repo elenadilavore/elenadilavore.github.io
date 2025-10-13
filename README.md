@@ -20,7 +20,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Effectful Mealy Machines: Bisimulation and Trace](https://doi.org/10.1109/LICS65433.2025.00047), [LiCS 2025](https://lics.siglog.org/lics25/) (**distinguished**)  
   *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*  
   [[arXiv](https://arxiv.org/abs/2410.10627)] [[slides of CALCO invited talk](./slides/effectful-traces-calco.pdf)]
-* [A Diagrammatic Algebra for Program Logics](https://doi.org/10.1007/978-3-031-90897-2_15), to appear in [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
+* [A Diagrammatic Algebra for Program Logics](https://doi.org/10.1007/978-3-031-90897-2_15), [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
   *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arXiv preprint](https://arxiv.org/abs/2410.03561)]
 * [Strong Induction is an up-to Technique](https://doi.org/10.4230/LIPIcs.CSL.2025.28), [CSL 2025](https://csl2025.github.io/)  
