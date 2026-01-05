@@ -78,6 +78,15 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(September 2021 - August 2023)**:  co-organiser of the [ACT Adjoint school 2022 and 2023](http://adjointschool.com/).
 * **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
+## Teaching 
+  * **(Autumn 2025)**: Teaching assistant for the [Categories, Proofs and Processes course](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/catsproofsprocs/index.html), University of Oxford.
+  * **(Spring 2024)**: Co-supervision of the BSc thesis of Anna Ricci at the University of Pisa, with Filippo Bonchi, work published in [CSL2025](https://doi.org/10.4230/LIPIcs.CSL.2025.28).
+  * **(Spring 2024)**: Co-supervision of the BSc thesis of Francesco Stefani at the University of Pisa, with Filippo Bonchi.
+  * **(Spring 2024)**: Teaching assistant in the Introduction to Category Theory course, University of Pisa.
+  * **(Spring 2023)**: Teaching assistant in the Introduction to Category Theory course, TalTech.
+  * **(Spring 2021)**: Teaching assistant in the Introduction to Category Theory course, TalTech.
+
+
 ## Talks
 
 * **(23 June 2025)**: [talk](./slides/on-writing-lmw.pdf) at the [Logic Mentoring Workshop](https://logic-mentoring-workshop.github.io/lics25/) colocated with LiCS 2025.
