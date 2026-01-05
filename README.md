@@ -89,12 +89,13 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 ## Talks
 
+* **(23 December 2025)**: [talk](./slides/distributive-program-logics-itaca.pdf) at the [6th ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-25/).
 * **(23 June 2025)**: [talk](./slides/on-writing-lmw.pdf) at the [Logic Mentoring Workshop](https://logic-mentoring-workshop.github.io/lics25/) colocated with LiCS 2025.
 * **(17 June 2025)**: [invited talk](./slides/effectful-traces-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/) ([associated abstract](https://doi.org/10.4230/LIPIcs.CALCO.2025.1)).
 * **(17 June 2025)**: [talk](./slides/graded-coalgebras-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/) (with [Mario Román][mario]).
 * **(4 June 2025)**: [invited talk](./slides/effectful-traces-lhc.pdf) at the [LHC days](https://smimram.gitlabpages.inria.fr/lhc/journees.html).
 * **(24 April 2025)**: [invited talk](./slides/partial-markov-syco13.pdf) at [SYCO 13](www.cl.cam.ac.uk/events/syco/13/).
-* **(13 March 2025)**: [talk](./slides/hoare-tapes-chocola.pdf) at the [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2025-03-13/) (IRIF, Paris).
+* **(13 March 2025)**: [invited talk](./slides/hoare-tapes-chocola.pdf) at the [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2025-03-13/) (IRIF, Paris).
 * **(12 March 2025)**: [talk](./slides/effectful-streams-irif.pdf) at IRIF (Paris).
 * **(19 June 2024)**: [talk](./slides/effectful-traces-act.pdf) at [ACT](https://oxford24.github.io/index.html) (distinguished). 
 * **(16 May 2024)**: [talk](./slides/effectful-traces-topos.pdf) at the [Topos Institute Colloquium](https://topos.site/events/topos-colloquium/) ([recording](https://www.youtube.com/watch?v=o3t6zTvpZbs)). 
