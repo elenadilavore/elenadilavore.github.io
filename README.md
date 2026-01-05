@@ -11,7 +11,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Coinductive Streams in Monoidal Categories](https://doi.org/10.46298/lmcs-21(3:18)2025), [LMCS](https://lmcs.episciences.org/), Volume 21, Issue 3  
   *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]* 
   [arXiv](https://arxiv.org/abs/2212.14494)
-* Order in Partial Markov Categories, to appear in [MFPS XLI](https://www.coalg.org/calco-mfps-2025/mfps/)  
+* [Order in Partial Markov Categories](https://doi.org/10.46298/entics.16686), [MFPS XLI](https://www.coalg.org/calco-mfps-2025/mfps/)  
   *EDL, [Mario Román][mario], [Paweł Sobociński][pawel] and [Márk Széles][mark]*  
   [[arXiv](https://arxiv.org/abs/2507.19424)]
 * [Tape Diagrams for Monoidal Monads](https://doi.org/10.4230/LIPIcs.CALCO.2025.11), [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/)  
@@ -20,6 +20,9 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Effectful Mealy Machines: Bisimulation and Trace](https://doi.org/10.1109/LICS65433.2025.00047), [LiCS 2025](https://lics.siglog.org/lics25/) (**distinguished**)  
   *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*  
   [[arXiv](https://arxiv.org/abs/2410.10627)] [[slides of CALCO invited talk](./slides/effectful-traces-calco.pdf)]
+* [Dialectica Petri nets](https://doi.org/10.46298/fi.13125), [Fundamenta Informaticae](https://fi.episciences.org/), Volume 194, Issue 3.  
+  *EDL, [Wilmer Leal][wilmer] and [Valeria de Paiva][valeria]*  
+  [[arXiv preprint](https://arxiv.org/abs/2105.12801)]
 * [A Diagrammatic Algebra for Program Logics](https://doi.org/10.1007/978-3-031-90897-2_15), [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
   *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
   [[arXiv preprint](https://arxiv.org/abs/2410.03561)]
@@ -63,7 +66,6 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * *EDL and [Mario Román][mario]*, Timing via Pinwheel Double Categories, [arXiv preprint](https://arxiv.org/abs/2504.12846) 2025.
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
-* *EDL, [Wilmer Leal][wilmer], [Valeria de Paiva][valeria]*, Dialectica Petri nets, [arXiv preprint](https://arxiv.org/abs/2105.12801) 2021.
 
 ## Academic service
 * **(April 2025)**: program committee member for the [MFPS 2025 conference](https://www.coalg.org/calco-mfps-2025/mfps/).
