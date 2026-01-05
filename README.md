@@ -68,23 +68,23 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
 ## Academic service
+* **(April 2026)**: program committee member for the [ACT 2026 conference](https://actconf2026.github.io/index.html).
+* **(February 2026)**: program committee member for the [CMCS 2026 workshop](https://www.coalg.org/cmcs26/).
 * **(April 2025)**: program committee member for the [MFPS 2025 conference](https://www.coalg.org/calco-mfps-2025/mfps/).
 * **(March 2025)**: program committee member for the [ACT 2025 conference](https://gataslab.org/act2025/act2025).
 * **(since November 2023)**: member of the steering committee of the [Adjoint School](http://adjointschool.com/index.html).
 * **(since May 2023)**: member of the executive board of [Compositionality](https://compositionality-journal.org/).
-* **(January - May 2023)**: TA for the [category theory and applications](https://compose.ioc.ee/CourseCategoryTheory.html) course at Tallinn University of Technology.
 * **(8-9 September 2022)**: local co-organiser [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
 * **(May 2022)**: program committee member for the [ACT 2022 conference](https://msp.cis.strath.ac.uk/act2022/).
 * **(September 2021 - August 2023)**:  co-organiser of the [ACT Adjoint school 2022 and 2023](http://adjointschool.com/).
-* **(May 2021)**: TA for the [introductory course on category theory](https://compose.ioc.ee/CourseCategoryTheory.html) at Tallinn University of Technology.
 
 ## Teaching 
   * **(Autumn 2025)**: Teaching assistant for the [Categories, Proofs and Processes course](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/catsproofsprocs/index.html), University of Oxford.
   * **(Spring 2024)**: Co-supervision of the BSc thesis of Anna Ricci at the University of Pisa, with Filippo Bonchi, work published in [CSL2025](https://doi.org/10.4230/LIPIcs.CSL.2025.28).
   * **(Spring 2024)**: Co-supervision of the BSc thesis of Francesco Stefani at the University of Pisa, with Filippo Bonchi.
-  * **(Spring 2024)**: Teaching assistant in the Introduction to Category Theory course, University of Pisa.
-  * **(Spring 2023)**: Teaching assistant in the Introduction to Category Theory course, TalTech.
-  * **(Spring 2021)**: Teaching assistant in the Introduction to Category Theory course, TalTech.
+  * **(Spring 2024)**: Teaching assistant for the Introduction to Category Theory course, University of Pisa.
+  * **(Spring 2023)**: Teaching assistant for the [Introduction to Category Theory](https://compose.ioc.ee/CourseCategoryTheory.html) course, TalTech.
+  * **(Spring 2021)**: Teaching assistant for the [Introduction to Category Theory](https://compose.ioc.ee/CourseCategoryTheory.html) course, Tallinn University of Technology.
 
 
 ## Talks
