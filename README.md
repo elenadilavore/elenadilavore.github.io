@@ -2,10 +2,10 @@
     title = "Photo of Elena Di Lavore"
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
     width = "200">
-I am a researcher in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology.
+I am a researcher in the [Compositional Systems and Methods group][tallcat] at Tallinn University of Technology.
 Until January 2026, I was a research associate at the University of Oxford, working with [Sam Staton][sam] as a creator for the ARIA [Safeguarded AI program](https://www.aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/).
 Previously, I was a postdoctoral researcher at the University of Pisa, working with [Filippo Bonchi][filippo].
-Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
+Until November 2023, I was a PhD student in the [Compositional Systems and Methods group][tallcat] at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 ## Publications
 * [Coinductive Streams in Monoidal Categories](https://doi.org/10.46298/lmcs-21(3:18)2025), [LMCS](https://lmcs.episciences.org/), Volume 21, Issue 3  
@@ -143,7 +143,8 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf), with [Mario Román][mario]
 
 ## CV summary
-* *February 2026 - present*: researcher at **Tallinn University of Technology** in the [Compositional Systems and Methods group](https://compose.ioc.ee/).
+
+* *February 2026 - present*: researcher at **Tallinn University of Technology** in the [Compositional Systems and Methods group][tallcat].
 * *January 2025 - January 2026*: research associate at the Computer Science Department, **University of Oxford**, with [Sam Staton][sam].
 * *January 2024 - December 2024*: postdoctoral researcher at the Computer Science Department, **Università di Pisa**, with [Filippo Bonchi][filippo]. 
 * *November 2019 - November 2023*: PhD at **Tallinn University of Technology** under the supervision of [Paweł Sobociński][pawel].
@@ -177,3 +178,4 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 [alessandrodg]: https://alessandrodgr.github.io/
 [sam]: https://www.cs.ox.ac.uk/people/samuel.staton/main.html
 [mark]: https://markszeles.github.io/
+[tallcat]: https://compose.ioc.ee/
