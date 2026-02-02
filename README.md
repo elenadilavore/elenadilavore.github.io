@@ -144,7 +144,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * [Optic embeds into the Int construction](https://github.com/mroman42/optic-int-construction/raw/master/opticint.pdf), with [Mario Román][mario]
 
 ## CV summary
-* *February 2026 - present*: researcher at Tallinn University of Technology in the [Compositional Systems and Methods group](https://compose.ioc.ee/).
+* *February 2026 - present*: researcher at **Tallinn University of Technology** in the [Compositional Systems and Methods group](https://compose.ioc.ee/).
 * *January 2025 - January 2026*: research associate at the Computer Science Department, **University of Oxford**, with [Sam Staton][sam].
 * *January 2024 - December 2024*: postdoctoral researcher at the Computer Science Department, **Università di Pisa**, with [Filippo Bonchi][filippo]. 
 * *November 2019 - November 2023*: PhD at **Tallinn University of Technology** under the supervision of [Paweł Sobociński][pawel].
