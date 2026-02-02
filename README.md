@@ -3,7 +3,8 @@
     src = "https://github.com/elenadilavore/elenadilavore.github.io/blob/master/profilo.jpg?raw=true" 
     width = "200">
     
-I am a research associate at the University of Oxford, working with [Sam Staton][sam] as a creator for the ARIA [Safeguarded AI program](https://www.aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/).
+I am a researcher in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology.
+Until January 2026, I was a research associate at the University of Oxford, working with [Sam Staton][sam] as a creator for the ARIA [Safeguarded AI program](https://www.aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/).
 Previously, I was a postdoctoral researcher at the University of Pisa, working with [Filippo Bonchi][filippo].
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group](https://compose.ioc.ee/) at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
