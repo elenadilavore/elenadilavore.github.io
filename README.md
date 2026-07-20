@@ -68,6 +68,8 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
 ## Academic service
+* **(June 2026)**: program committee member for the [HOPE 2026 workshop](https://icfp26.sigplan.org/home/hope-2026).
+* **(May 2026)**: program committee member for the [LSFA 2026 workshop](https://lsfa-workshop.github.io/2026/).
 * **(April 2026)**: program committee member for the [ACT 2026 conference](https://actconf2026.github.io/index.html).
 * **(February 2026)**: program committee member for the [CMCS 2026 workshop](https://www.coalg.org/cmcs26/).
 * **(April 2025)**: program committee member for the [MFPS 2025 conference](https://www.coalg.org/calco-mfps-2025/mfps/).
@@ -89,6 +91,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 ## Talks
 
+* **(27 May 2026)**: [talk](./slides/partial-markov-logicon.pdf) at [Logicón 2026](https://logicon.mx/2025/11/02/logicon-2026/), UNAM, Ciudad de México.
 * **(23 December 2025)**: [talk](./slides/distributive-program-logics-itaca.pdf) at the [6th ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-25/).
 * **(23 June 2025)**: [talk](./slides/on-writing-lmw.pdf) at the [Logic Mentoring Workshop](https://logic-mentoring-workshop.github.io/lics25/) colocated with LiCS 2025.
 * **(17 June 2025)**: [invited talk](./slides/effectful-traces-calco.pdf) at [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/) ([associated abstract](https://doi.org/10.4230/LIPIcs.CALCO.2025.1)).
