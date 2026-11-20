@@ -202,3 +202,4 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 [tallcat]: https://compose.ioc.ee/
 [ana]: https://www.cs.uni-salzburg.at/~anas/
 [kazuki]: https://group-mmm.org/~kazuki/
+[jonas]: https://www8.cs.fau.de/people/jonas/
