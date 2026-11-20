@@ -8,6 +8,9 @@ Previously, I was a postdoctoral researcher at the University of Pisa, working w
 Until November 2023, I was a PhD student in the [Compositional Systems and Methods group][tallcat] at Tallinn University of Technology under the supervision of [Paweł Sobociński][pawel].
 
 ## Publications
+* Normalized Probabilistic Semantics is Not Associative, accepted at [POPL 2027](https://popl27.sigplan.org/)  
+  *EDL, [Mario Román][mario] and [Márk Széles][mark]*  
+  [arXiv](https://arxiv.org/abs/2510.01131)
 * [Coinductive Streams in Monoidal Categories](https://doi.org/10.46298/lmcs-21(3:18)2025), [LMCS](https://lmcs.episciences.org/), Volume 21, Issue 3  
   *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]* 
   [arXiv](https://arxiv.org/abs/2212.14494)
