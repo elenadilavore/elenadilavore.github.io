@@ -77,7 +77,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(March 2027)**: program committee member of [ICFP 2027](https://icfp27.sigplan.org/).
 * **(March 2027)**: program committee member of [MFPS XLIII](https://www.coalg.org/calco-mfps-2027/).
 * **(February 2027)**: program committee member of [LiCS 2027](https://lics.siglog.org/lics27/).
-* **(June 2026)**: program committee member if the [HOPE 2026 workshop](https://icfp26.sigplan.org/home/hope-2026).
+* **(June 2026)**: program committee member of the [HOPE 2026 workshop](https://icfp26.sigplan.org/home/hope-2026).
 * **(May 2026)**: program committee member of the [LSFA 2026 workshop](https://lsfa-workshop.github.io/2026/).
 * **(April 2026)**: program committee member of the [ACT 2026 conference](https://actconf2026.github.io/index.html).
 * **(February 2026)**: program committee member of the [CMCS 2026 workshop](https://www.coalg.org/cmcs26/).
