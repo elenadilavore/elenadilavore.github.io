@@ -10,7 +10,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 ## Publications
 * Normalized Probabilistic Semantics is Not Associative, accepted at [POPL 2027](https://popl27.sigplan.org/)  
   *EDL, [Mario Román][mario] and [Márk Széles][mark]*  
-  [arXiv](https://arxiv.org/abs/2510.01131)
+  [[arXiv](https://arxiv.org/abs/2510.01131)]
 * [Coinductive Streams in Monoidal Categories](https://doi.org/10.46298/lmcs-21(3:18)2025), [LMCS](https://lmcs.episciences.org/), Volume 21, Issue 3  
   *EDL, [Giovanni de Felice][giovanni] and [Mario Román][mario]* 
   [arXiv](https://arxiv.org/abs/2212.14494)
@@ -25,10 +25,10 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
   [[arXiv](https://arxiv.org/abs/2410.10627)] [[slides of CALCO invited talk](./slides/effectful-traces-calco.pdf)]
 * [Dialectica Petri nets](https://doi.org/10.46298/fi.13125), [Fundamenta Informaticae](https://fi.episciences.org/), Volume 194, Issue 3.  
   *EDL, [Wilmer Leal][wilmer] and [Valeria de Paiva][valeria]*  
-  [[arXiv preprint](https://arxiv.org/abs/2105.12801)]
+  [[arXiv](https://arxiv.org/abs/2105.12801)]
 * [A Diagrammatic Algebra for Program Logics](https://doi.org/10.1007/978-3-031-90897-2_15), [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/)  
   *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*  
-  [[arXiv preprint](https://arxiv.org/abs/2410.03561)]
+  [[arXiv](https://arxiv.org/abs/2410.03561)]
 * [Strong Induction is an up-to Technique](https://doi.org/10.4230/LIPIcs.CSL.2025.28), [CSL 2025](https://csl2025.github.io/)  
   *[Filippo Bonchi][filippo], EDL and Anna Ricci*
 * [A Coalgebraic Model of Quantum Bisimulation](https://dx.doi.org/10.4204/EPTCS.429.14), [ACT 2024](https://oxford24.github.io/index.html)  
@@ -96,6 +96,11 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 
 ## Talks
 
+* **(19 November 2026)**: [talk](./notes/2026-11-19-monoidal_cats.pdf) for the Category Theory course at the University of Pisa.
+* **(16 November 2026)**: [talk](./slides/distributive-program-logics-nii.pdf) at the [Joint Seminar on Programming Languages](https://skymountain.github.io/pl-seminar/), National Institute of Informatics, Tokyo. 
+* **(1 October 2026)**: [talk](./slides/distributive-program-logics-online.pdf) at [Online logic seminar](http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html).
+* **(15 September 2026)**: [talk](./slides/distributive-program-logics-salzburg.pdf), Paris-Lodron University Salzburg. 
+* **(8 September 2026)**: [talk](./slides/distributive-program-logics-highlights.pdf) at [Highlights of Logics, Games and Automata](https://highlights-conference.org/2026/), TU Wien, Vienna. 
 * **(27 May 2026)**: [talk](./slides/partial-markov-logicon.pdf) at [Logicón 2026](https://logicon.mx/2025/11/02/logicon-2026/), UNAM, Ciudad de México.
 * **(23 December 2025)**: [talk](./slides/distributive-program-logics-itaca.pdf) at the [6th ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-25/).
 * **(23 June 2025)**: [talk](./slides/on-writing-lmw.pdf) at the [Logic Mentoring Workshop](https://logic-mentoring-workshop.github.io/lics25/) colocated with LiCS 2025.
