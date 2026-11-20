@@ -64,7 +64,9 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 ## Preprints and extended abstracts
 
 * *[Filippo Bonchi][filippo], EDL, [Mario Román][mario] and [Sam Staton][sam]*, Program Logics via Distributive Monoidal Categories, [arXiv preprint](https://www.arxiv.org/abs/2507.18238) 2025.
-* *EDL and [Mario Román][mario]*, Graded Coalgebras of Monads for Continuous time Dynamics, [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/accepted/) [early ideas](https://mroman42.github.io/papers/graded-coalgebras-of-monads-for-continuous-dynamics.pdf).
+* *EDL, [Jonas Forster][jonas] and [Mario Román][mario]*, Graded Monad Coalgebras for Continuous-Time Transition Systems, [arXiv preprint](https://arxiv.org/abs/2605.06268) 2026. [CALCO 2025](https://www.coalg.org/calco-mfps-2025/calco/accepted/) [early ideas](https://mroman42.github.io/papers/graded-coalgebras-of-monads-for-continuous-dynamics.pdf).
+* *[Filippo Bonchi][filippo], EDL and [Mario Román][mario]*, Effectful Mealy Machines, [arXiv preprint](https://arxiv.org/abs/2410.10627) 2026. 
+* *[Filippo Bonchi][filippo], [Alessandro Di Giorgio][alessandrodg] and EDL*, A Diagrammatic Basis for Computer Programming, [arXiv preprint](https://arxiv.org/abs/2512.07240) 2026.
 * *EDL, [Mario Román][mario] and [Paweł Sobociński][pawel]*, Partial Markov Categories, [arXiv preprint](https://www.arxiv.org/abs/2502.03477) 2025.
 * *EDL and [Mario Román][mario]*, Timing via Pinwheel Double Categories, [arXiv preprint](https://arxiv.org/abs/2504.12846) 2025.
 * *EDL, [Bart Jacobs][bart] and [Mario Román][mario]*, A Simple Formal Language for Probabilistic Decision Problems, [arXiv preprint](https://arxiv.org/abs/2410.10643) 2024.
@@ -128,9 +130,11 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * **(26 January 2021)**: [talk](./slides/games-on-graphs-csl.pdf) at the [CSL 2021 conference](https://csl2021.fmf.uni-lj.si/) ([conference paper](https://drops.dagstuhl.de/opus/volltexte/2021/13464/) and [recording of the talk](https://www.youtube.com/watch?v=QleWc1LtXLo&t=1469s)).
 
 ## Events
+* **(November 2026)**: academic visit to [Kazuki Watanabe][kazuki] at the National Institute of Informatics, Tokyo.
+* **(September 2026)**: academic visit to [Ana Sokolova][ana] at the Paris-Lodron University Salzburg.
 * **(January 2025)**: started a postdoctoral position with [Sam Staton][sam] at the Computer Science Department of the University of Oxford.
 * **(October, November 2024)**: academic visit to the Compositional Systems and Methods research group at Tallinn University of Technology.
-* **(March 2024)**: academic visit to [Mario Román][mario] at the University of Oxford. 
+* **(March 2024)**: academic visit to [Mario Román][mario] at the University of Oxford, supported by [COST STSM](https://europroofnet.github.io/accepted_stsms/). 
 * **(1 January 2024)**: started a postdoctoral position with [Filippo Bonchi][filippo] at the Computer Science Department of the University of Pisa.
 * **(17 November 2023)**: I defended my [PhD thesis](./notes/phd-thesis.pdf) with [Samson Abramsky][abramsky] and [Dan Marsden][marsden] as opponents. 
 * **(November 2022)**: academic visit to [Jamie Vicary][jamie] at the University of Cambridge ([slides](./slides/mwd-clash.pdf)).
@@ -186,3 +190,5 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 [sam]: https://www.cs.ox.ac.uk/people/samuel.staton/main.html
 [mark]: https://markszeles.github.io/
 [tallcat]: https://compose.ioc.ee/
+[ana]: https://www.cs.uni-salzburg.at/~anas/
+[kazuki]: https://group-mmm.org/~kazuki/
