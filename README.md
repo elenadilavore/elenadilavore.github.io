@@ -73,16 +73,20 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 * *EDL and [Paweł Sobociński][pawel]*, Monoidal Width: Unifying Tree width, Path Width and Branch Width, [arXiv preprint](https://arxiv.org/abs/2202.07582) 2022.
 
 ## Academic service
-* **(June 2026)**: program committee member for the [HOPE 2026 workshop](https://icfp26.sigplan.org/home/hope-2026).
-* **(May 2026)**: program committee member for the [LSFA 2026 workshop](https://lsfa-workshop.github.io/2026/).
-* **(April 2026)**: program committee member for the [ACT 2026 conference](https://actconf2026.github.io/index.html).
-* **(February 2026)**: program committee member for the [CMCS 2026 workshop](https://www.coalg.org/cmcs26/).
-* **(April 2025)**: program committee member for the [MFPS 2025 conference](https://www.coalg.org/calco-mfps-2025/mfps/).
-* **(March 2025)**: program committee member for the [ACT 2025 conference](https://gataslab.org/act2025/act2025).
+
+* **(March 2027)**: program committee member of [MFPS XLIII](https://www.coalg.org/calco-mfps-2027/).
+* **(March 2027)**: program committee member of [ICFP 2027](https://icfp27.sigplan.org/).
+* **(February 2027)**: program committee member of [LICS 2027](https://lics.siglog.org/lics27/).
+* **(June 2026)**: program committee member if the [HOPE 2026 workshop](https://icfp26.sigplan.org/home/hope-2026).
+* **(May 2026)**: program committee member of the [LSFA 2026 workshop](https://lsfa-workshop.github.io/2026/).
+* **(April 2026)**: program committee member of the [ACT 2026 conference](https://actconf2026.github.io/index.html).
+* **(February 2026)**: program committee member of the [CMCS 2026 workshop](https://www.coalg.org/cmcs26/).
+* **(April 2025)**: program committee member of the [MFPS 2025 conference](https://www.coalg.org/calco-mfps-2025/mfps/).
+* **(March 2025)**: program committee member of the [ACT 2025 conference](https://gataslab.org/act2025/act2025).
 * **(since November 2023)**: member of the steering committee of the [Adjoint School](http://adjointschool.com/index.html).
 * **(since May 2023)**: member of the executive board of [Compositionality](https://compositionality-journal.org/).
 * **(8-9 September 2022)**: local co-organiser [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/) at the University of Insubria, Como.
-* **(May 2022)**: program committee member for the [ACT 2022 conference](https://msp.cis.strath.ac.uk/act2022/).
+* **(May 2022)**: program committee member of the [ACT 2022 conference](https://msp.cis.strath.ac.uk/act2022/).
 * **(September 2021 - August 2023)**:  co-organiser of the [ACT Adjoint school 2022 and 2023](http://adjointschool.com/).
 
 ## Teaching 
@@ -137,6 +141,7 @@ Until November 2023, I was a PhD student in the [Compositional Systems and Metho
 ## Events
 * **(November 2026)**: academic visit to [Kazuki Watanabe][kazuki] at the National Institute of Informatics, Tokyo.
 * **(September 2026)**: academic visit to [Ana Sokolova][ana] at the Paris-Lodron University Salzburg.
+* **(February 2026)**: started a 5-years postdoctoral position in the Compositional Systems and Methods research group at Tallinn University of Technology.
 * **(January 2025)**: started a postdoctoral position with [Sam Staton][sam] at the Computer Science Department of the University of Oxford.
 * **(October, November 2024)**: academic visit to the Compositional Systems and Methods research group at Tallinn University of Technology.
 * **(March 2024)**: academic visit to [Mario Román][mario] at the University of Oxford, supported by [COST STSM](https://europroofnet.github.io/accepted_stsms/). 
